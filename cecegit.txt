@@ -27,14 +27,11 @@ CCTV13,http://121.51.249.30/livehkkp.chinamcache.com/live/CCTV-xw.m3u8
 河南卫视,http://121.51.249.30/livehkkp.chinamcache.com/live/hnws35.m3u8
 山东卫视,http://121.51.249.30/livehkkp.chinamcache.com/live/sdwsH265.m3u8
 湖北卫视,http://121.51.249.30/livehkkp.chinamcache.com/live/hbwsH265.m3u8
-贵州卫视,http://121.51.249.30/livehkkp.chinamcache.com/live/gzwsH265.m3u8
-青海卫视,http://121.51.249.30/livehkkp.chinamcache.com/live/qhwsH264.m3u8
-吉林卫视,http://121.51.249.30/livehkkp.chinamcache.com/live/jlwsH265.m3u8
 黑龙江卫视,http://121.51.249.30/livehkkp.chinamcache.com/live/hljwsH265.m3u8
 
 
 
-谷豆#genre#
+谷豆,#genre#
 广东体育,http://159.75.85.63:8765/telegram@feiyangdigital-gdty.m3u8
 翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
 明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
@@ -66,11 +63,10 @@ FOX_News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 有线新闻,http://61.10.2.148:80/live_freedirect/freehd209_h.live/chunklist.m3u8
 有线新闻,https://api.leonardpark.dev/live/icable/109
 广东翡翠,http://r.jdshipin.com/qClQf
-翡翠台1,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
-翡翠台2,http://59.149.114.27:9981/stream/channelid/1255701536?profile=matroska
-翡翠台3,http://radius.8866.org:800/hls/80/index.m3u8
-翡翠台4,http://shazui.8866.org:800/hls/80/index.m3u8
-翡翠台5,http://23.237.10.66:16106
+翡翠台1,http://59.149.114.27:9981/stream/channelid/1255701536?profile=matroska
+翡翠台2,http://radius.8866.org:800/hls/80/index.m3u8
+翡翠台3,http://shazui.8866.org:800/hls/80/index.m3u8
+翡翠台4,http://23.237.10.66:16106
 中天综合,http://23.237.10.66:16372
 台视,http://23.237.10.66:16344
 民视,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/chunklist_w1267907621.m3u8
@@ -131,9 +127,7 @@ CCTV16,http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
 四川九寨沟,https://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8?contentid=2820180516001
 四川达古冰川,https://gc2ksc.v.kcdnvip.com/gc/ztx_1/index.m3u8?contentid=2820180516001
 四川黄龙五彩池,https://gctxyc.liveplay.myqcloud.com/gc/hlwcc_1/index.m3u8?contentid=2820180516001
-峨眉云海日出,https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8?contentid=2820180516001
 成都天府熊猫塔,https://gcbdc.a.bdydns.com/gc/lhszjsp_1/index.m3u8?contentid=2820180516001
-成都安顺廊桥,https://gctxyc.liveplay.myqcloud.com/gc/zsslsjjfsd_1/index.m3u8?contentid=2820180516001
 
 
 
