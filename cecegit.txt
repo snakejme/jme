@@ -562,7 +562,7 @@ CCTV-17 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/defaul
 
 
 
-泛播ghyx
+泛播ghyx,#genre#
 CCTV1,https://live.v1.mk/api/ghyx.php?id=CCTV1HD_6000
 CCTV2,https://live.v1.mk/api/ghyx.php?id=CCTV2HD_6000
 CCTV3,https://live.v1.mk/api/ghyx.php?id=CCTV3HD_6000
