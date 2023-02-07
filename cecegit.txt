@@ -1,33 +1,38 @@
-央卫H265,#genre#
-CCTV1,http://121.51.249.30/livehkkp.chinamcache.com/live/CCTV-1H265.m3u8
-CCTV2,http://121.51.249.30/livehkkp.chinamcache.com/live/CCTV-2H265.m3u8
-CCTV3,http://121.51.249.30/livehkkp.chinamcache.com/live/CCTV-3H265.m3u8
-CCTV4,http://121.51.249.30/livehkkp.chinamcache.com/live/CCTV-4H265.m3u8
-CCTV5,http://121.51.249.30/livehkkp.chinamcache.com/live/CCTV-5H265.m3u8
-CCTV6,http://121.51.249.30/livehkkp.chinamcache.com/live/CCTV-6H265.m3u8
-CCTV7,http://121.51.249.30/livehkkp.chinamcache.com/live/CCTV-7H265.m3u8
-CCTV8,http://121.51.249.30/livehkkp.chinamcache.com/live/CCTV-8H265.m3u8
-CCTV9,http://121.51.249.30/livehkkp.chinamcache.com/live/CCTV-9H265.m3u8
-CCTV10,http://121.51.249.30/livehkkp.chinamcache.com/live/CCTV-10H265.m3u8
-CCTV11,http://121.51.249.30/livehkkp.chinamcache.com/live/CCTV-11-H265.m3u8
-CCTV12,http://121.51.249.30/livehkkp.chinamcache.com/live/CCTV-12H265.m3u8
-CCTV13,http://121.51.249.30/livehkkp.chinamcache.com/live/CCTV-xw.m3u8
-广东卫视,http://121.51.249.30/livehkkp.chinamcache.com/live/gdwsH265.m3u8
-深圳卫视,http://121.51.249.30/livehkkp.chinamcache.com/live/szwsH265.m3u8
-湖南卫视,http://121.51.249.30/livehkkp.chinamcache.com/live/hnwsH265.m3u8
-东方卫视,http://121.51.249.30/livehkkp.chinamcache.com/live/dfwsH265.m3u8
-江苏卫视,http://121.51.249.30/livehkkp.chinamcache.com/live/jswsH265.m3u8
-浙江卫视,http://121.51.249.30/livehkkp.chinamcache.com/live/zjwsH265.m3u8
-安徽卫视,http://121.51.249.30/livehkkp.chinamcache.com/live/ahwsH265.m3u8
-东南卫视,http://121.51.249.30/livehkkp.chinamcache.com/live/dnwsfjwsH265.m3u8
-四川卫视,http://121.51.249.30/livehkkp.chinamcache.com/live/scwsH265.m3u8
-江西卫视,http://121.51.249.30/livehkkp.chinamcache.com/live/jxwsH265.m3u8
-辽宁卫视,http://121.51.249.30/livehkkp.chinamcache.com/live/lnwsHDH264.m3u8
-天津卫视,http://121.51.249.30/livehkkp.chinamcache.com/live/tjwsH265.m3u8
-河南卫视,http://121.51.249.30/livehkkp.chinamcache.com/live/hnws35.m3u8
-山东卫视,http://121.51.249.30/livehkkp.chinamcache.com/live/sdwsH265.m3u8
-湖北卫视,http://121.51.249.30/livehkkp.chinamcache.com/live/hbwsH265.m3u8
-黑龙江卫视,http://121.51.249.30/livehkkp.chinamcache.com/live/hljwsH265.m3u8
+爱尚,#genre#
+CCTV-1 综合,https://live.v1.mk/aishang/cctv1hd
+CCTV-2 财经,https://live.v1.mk/aishang/cctv2hd
+CCTV-3 综艺,https://live.v1.mk/aishang/cctv3hd
+CCTV-4 中文国际,https://live.v1.mk/aishang/cctv4hd
+CCTV-5 体育,https://live.v1.mk/aishang/cctv5hd
+CCTV-5+ 体育赛事,https://live.v1.mk/aishang/cctv5p
+CCTV-6 电影,https://live.v1.mk/aishang/cctv6hd
+CCTV-7 国防军事,https://live.v1.mk/aishang/cctv7hd
+CCTV-8 电视剧,https://live.v1.mk/aishang/cctv8hd
+CCTV-9 纪录,https://live.v1.mk/aishang/cctv9hd2
+CCTV-10 科教,https://live.v1.mk/aishang/cctv10hd
+CCTV-11 戏曲,https://live.v1.mk/aishang/cctv11hd
+CCTV-12 社会与法,https://live.v1.mk/aishang/cctv12hd
+CCTV-13 新闻,https://live.v1.mk/aishang/cctv13hd
+CCTV-14 少儿,https://live.v1.mk/aishang/cctv14hd
+CCTV-15 音乐,https://live.v1.mk/aishang/cctv15hd
+CCTV-16 奥林匹克,https://live.v1.mk/aishang/cctv16hd
+CCTV-17 农业农村,https://live.v1.mk/aishang/cctv17hd
+CGTN,https://live.v1.mk/aishang/cgtnhd
+湖南卫视,https://live.v1.mk/aishang/hunwshd
+浙江卫视,https://live.v1.mk/aishang/zjwshd
+东方卫视,https://live.v1.mk/aishang/dfwshd
+江苏卫视,https://live.v1.mk/aishang/jswshd
+北京卫视,https://live.v1.mk/aishang/bjwshd
+深圳卫视,https://live.v1.mk/aishang/szwshd
+山东卫视,https://live.v1.mk/aishang/sdwshd
+广东卫视,https://live.v1.mk/aishang/gdwshd
+安徽卫视,https://live.v1.mk/aishang/ahwshd
+东南卫视,https://live.v1.mk/aishang/dnwshd
+天津卫视,https://live.v1.mk/aishang/tjwshd
+重庆卫视,https://live.v1.mk/aishang/cqws
+湖北卫视,https://live.v1.mk/aishang/hubwshd
+四川卫视,https://live.v1.mk/aishang/scws
+厦门卫视,https://live.v1.mk/aishang/xmws
 
 
 
@@ -519,42 +524,6 @@ CCTV17,http://fyld.eatuo.com:9901/tsfile/live/1034_1.m3u8
 
 
 
-爱尚,#genre#
-CCTV-1 综合,https://live.v1.mk/aishang/cctv1hd
-CCTV-2 财经,https://live.v1.mk/aishang/cctv2hd
-CCTV-3 综艺,https://live.v1.mk/aishang/cctv3hd
-CCTV-4 中文国际,https://live.v1.mk/aishang/cctv4hd
-CCTV-5 体育,https://live.v1.mk/aishang/cctv5hd
-CCTV-5+ 体育赛事,https://live.v1.mk/aishang/cctv5p
-CCTV-6 电影,https://live.v1.mk/aishang/cctv6hd
-CCTV-7 国防军事,https://live.v1.mk/aishang/cctv7hd
-CCTV-8 电视剧,https://live.v1.mk/aishang/cctv8hd
-CCTV-9 纪录,https://live.v1.mk/aishang/cctv9hd2
-CCTV-10 科教,https://live.v1.mk/aishang/cctv10hd
-CCTV-11 戏曲,https://live.v1.mk/aishang/cctv11hd
-CCTV-12 社会与法,https://live.v1.mk/aishang/cctv12hd
-CCTV-13 新闻,https://live.v1.mk/aishang/cctv13hd
-CCTV-14 少儿,https://live.v1.mk/aishang/cctv14hd
-CCTV-15 音乐,https://live.v1.mk/aishang/cctv15hd
-CCTV-16 奥林匹克,https://live.v1.mk/aishang/cctv16hd
-CCTV-17 农业农村,https://live.v1.mk/aishang/cctv17hd
-CGTN,https://live.v1.mk/aishang/cgtnhd
-湖南卫视,https://live.v1.mk/aishang/hunwshd
-浙江卫视,https://live.v1.mk/aishang/zjwshd
-东方卫视,https://live.v1.mk/aishang/dfwshd
-江苏卫视,https://live.v1.mk/aishang/jswshd
-北京卫视,https://live.v1.mk/aishang/bjwshd
-深圳卫视,https://live.v1.mk/aishang/szwshd
-山东卫视,https://live.v1.mk/aishang/sdwshd
-广东卫视,https://live.v1.mk/aishang/gdwshd
-安徽卫视,https://live.v1.mk/aishang/ahwshd
-东南卫视,https://live.v1.mk/aishang/dnwshd
-天津卫视,https://live.v1.mk/aishang/tjwshd
-重庆卫视,https://live.v1.mk/aishang/cqws
-湖北卫视,https://live.v1.mk/aishang/hubwshd
-四川卫视,https://live.v1.mk/aishang/scws
-厦门卫视,https://live.v1.mk/aishang/xmws
-
 
 
 
@@ -592,6 +561,42 @@ CCTV-17 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/defaul
 四川卫视高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/sichuanHD/__op/default/__f//index.m3u8
 
 
+
+泛播ghyx
+CCTV1,https://live.v1.mk/api/ghyx.php?id=CCTV1HD_6000
+CCTV2,https://live.v1.mk/api/ghyx.php?id=CCTV2HD_6000
+CCTV3,https://live.v1.mk/api/ghyx.php?id=CCTV3HD_6000
+CCTV4,https://live.v1.mk/api/ghyx.php?id=CCTV4HD_6000
+CCTV5,https://live.v1.mk/api/ghyx.php?id=CCTV5HD_6000
+CCTV5+,https://live.v1.mk/api/ghyx.php?id=CCTV5plusHD_6000
+CCTV6,https://live.v1.mk/api/ghyx.php?id=CCTV6HD_6000
+CCTV7,https://live.v1.mk/api/ghyx.php?id=CCTV7HD_6000
+CCTV8,https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000
+CCTV9,https://live.v1.mk/api/ghyx.php?id=CCTV9HD_6000
+CCTV10,https://live.v1.mk/api/ghyx.php?id=CCTV10HD_6000
+CCTV11 标清,https://live.v1.mk/api/ghyx.php?id=CCTV11HD_2000
+CCTV12,https://live.v1.mk/api/ghyx.php?id=CCTV12HD_6000
+CCTV13 标清,https://live.v1.mk/api/ghyx.php?id=CCTV13HD_2000
+CCTV14,https://live.v1.mk/api/ghyx.php?id=CCTV14HD_6000
+CCTV15,https://live.v1.mk/api/ghyx.php?id=CCTV15HD_6000
+CCTV16,https://live.v1.mk/api/ghyx.php?id=CCTV16HD_6000
+CCTV17,https://live.v1.mk/api/ghyx.php?id=CCTV17HD_6000
+CHC高清电影,https://live.v1.mk/api/ghyx.php?id=CHCHD2_6000
+劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
+浙江卫视,https://live.v1.mk/api/ghyx.php?id=ZheJiangHD_6000
+北京卫视,https://live.v1.mk/api/ghyx.php?id=BTV1HD_6000
+辽宁卫视,https://live.v1.mk/api/ghyx.php?id=LiaoNingHD_6000
+安徽卫视,https://live.v1.mk/api/ghyx.php?id=AnHuiHD_6000
+江苏卫视,https://live.v1.mk/api/ghyx.php?id=JiangSuHD_6000
+东方卫视,https://live.v1.mk/api/ghyx.php?id=DongFangHD_6000
+东南卫视,https://live.v1.mk/api/ghyx.php?id=FuJianHD_6000
+湖南卫视,https://live.v1.mk/api/ghyx.php?id=HuNanHD_6000
+湖北卫视,https://live.v1.mk/api/ghyx.php?id=HuBeiHD_6000
+广东卫视,https://live.v1.mk/api/ghyx.php?id=GuangDongHD_6000
+深圳卫视,https://live.v1.mk/api/ghyx.php?id=ShenZhenHD_6000
+四川卫视,https://live.v1.mk/api/ghyx.php?id=SiChuanHD_6000
+山东卫视,https://live.v1.mk/api/ghyx.php?id=ShanDongHD_6000
+重庆卫视,https://live.v1.mk/api/ghyx.php?id=ChongQingHD_6000
 
 
 BESTV,#genre#
