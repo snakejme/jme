@@ -1,4 +1,4 @@
-😃😘😍央视,#genre#
+😃央视😘,#genre#
 CCTV1,https://live.v1.mk/aishang/cctv1hd
 CCTV2,https://live.v1.mk/aishang/cctv2hd
 CCTV3,https://live.v1.mk/aishang/cctv3hd
@@ -122,7 +122,7 @@ CCTV17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 
 
 
-😃😘😍卫视,#genre#
+😍卫视😊,#genre#
 湖南卫视,https://live.v1.mk/aishang/hunwshd
 浙江卫视,https://live.v1.mk/aishang/zjwshd
 东方卫视,https://live.v1.mk/aishang/dfwshd
@@ -190,7 +190,7 @@ CCTV17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 
 
 
-🏀⚽🎾 体育,#genre#
+⚽体育🏀,#genre#
 广东体育,http://159.75.85.63:8765/telegram@feiyangdigital-gdty.m3u8
 广东体育,http://jydx.jdshipin.com:8081/hls/1/index.m3u8
 广东体育,http://xjayrf.eatuo.com:9901/tsfile/live/1014_1.m3u8
@@ -214,7 +214,7 @@ CCTV16,http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
 
 
 
-😃😘😍港台,#genre#
+🏠港台🚊,#genre#
 
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -271,7 +271,7 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
 
-😃😘😍国际,#genre#
+✈️国际🚢,#genre#
 CGTN,https://live.v1.mk/aishang/cgtnhd
 CGTN,http://live.cgtn.com/500/prog_index.m3u8
 News,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8 
@@ -286,7 +286,7 @@ CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525
 
 
 
-😃😘😍电影,#genre#
+🍺电影🍟,#genre#
 超高清电影,http://159.75.85.63:5681/sxg.php
 bestv华语影院,https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
 bestv星光影院,https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
@@ -309,7 +309,7 @@ CHC家庭影院,http://hms204nc1972679577.live.aikan.miguvideo.com/wh7f454c46tw5
 
 
 
-😃😘😍4K,#genre#
+🐶4K🐬,#genre#
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
 CCTV4K,http://159.75.85.63:8765/telegram@feiyangdigital-cctv4k.m3u8
 CCTV4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
@@ -338,7 +338,7 @@ MUZZIK_ZZ4000_4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 
 
 
-😃😘😍地方,#genre#
+👪地方🚗,#genre#
 广东珠江,http://fyld.eatuo.com:9901/tsfile/live/1009_1.m3u8
 汕头综合,http://jydx.jdshipin.com:8081/hls/24/index.m3u8
 潮州综合,http://jydx.jdshipin.com:8081/hls/23/index.m3u8
@@ -360,7 +360,7 @@ MUZZIK_ZZ4000_4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 
 
 
-😃😘😍风景,#genre#
+🍓风景🍒,#genre#
 汕头小公园,http://gcbdc.a.bdydns.com/gc/bsszjs_1/index.m3u8?contentid=2820180516001
 汕头小公园,https://gcbdc.a.bdydns.com/gc/bsszjs_1/index.m3u8?contentid=2820180516001
 汕头小公园,http://gcksc.v.kcdnvip.com/gc/bsszjs_1/index.m3u8?contentid=2820180516001
@@ -396,7 +396,7 @@ MUZZIK_ZZ4000_4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 
 
 
-😃😘电信组播,#genre#
+🌞电信组播,#genre#
 CCTV-1高清,http://ly01.eu.org:10000/udp/239.77.1.17:5146
 CCTV-1高清,http://ly01.eu.org:10000/udp/239.77.1.144:5146
 CCTV-1高清,http://ly01.eu.org:10000/udp/239.77.0.86:5146
@@ -510,7 +510,7 @@ CHC电影,http://ly01.eu.org:10000/udp/239.77.0.27:5146
 山东卫视,http://ly01.eu.org:10000/udp/239.77.0.94:5146
 
 
-😃😘电信内网,#genre#
+🌜电信内网,#genre#
 汕头1综合,rtp://239.77.1.130:5146
 汕头1综合,rtp://239.253.43.45:5146
 汕头2经济生活,rtp://239.77.1.131:5146
@@ -598,7 +598,7 @@ CHC电影,rtp://239.77.0.27:5146
 海南卫视,rtp://239.253.43.35:5146
 
 
-😃😘江西IPV6,#genre#
+🍭江西IPV6,#genre#
 CCTV-1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225642/index.m3u8
 CCTV-2,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225643/index.m3u8
 CCTV-3,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225634/index.m3u8
@@ -683,17 +683,9 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 精品体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.m3u8
 
 
-😃😘😍备用,#genre#
+🌸备用🌿,#genre#
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 湖南卫视,http://hms124nc1972679568.live.aikan.miguvideo.com/wh7f454c46tw3833875086_1285108822/wd-hunanhd-2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=171.221.43.240&timestamp=20221208023539&ContentId=265667721&timezone=UTC&mtv_session=fea2335a1aa3a51255cec05dcb60c3fc&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6de0ac7682a634ee9228c1b60782f4dd
 
 cctv1,http://hms244nc1972679581.live.aikan.miguvideo.com/wh7f454c46tw2974860734_-984725328/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.138.167.9&timestamp=20230206055630&ContentId=265183188&timezone=UTC&mtv_session=a91f3ba6bcad5189460d38d7cc42e3e3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6a4ca38e32fa2acffb209beea96b1b24
-
-
-
-
-
-
-
-
 
