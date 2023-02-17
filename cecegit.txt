@@ -123,44 +123,6 @@ CCTV16,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
 CCTV17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 
 
-CCTV1,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-CCTV2,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV3,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
-CCTV4,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV5,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
-CCTV6,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
-CCTV7,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-CCTV8,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
-CCTV9,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-CCTV10,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-CCTV11,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
-CCTV12,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-CCTV13,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-CCTV14,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
-CCTV15,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCTV16,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-CCTV17,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
-CCTV5+,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-
-
-CCTV1,http://219.151.136.146/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-CCTV2,http://219.151.136.146/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV3,http://219.151.136.146/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
-CCTV4,http://219.151.136.146/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV5,http://219.151.136.146/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
-CCTV6,http://219.151.136.146/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
-CCTV7,http://219.151.136.146/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-CCTV8,http://219.151.136.146/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
-CCTV9,http://219.151.136.146/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-CCTV10,http://219.151.136.146/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-CCTV11,http://219.151.136.146/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
-CCTV12,http://219.151.136.146/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-CCTV13,http://219.151.136.146/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-CCTV14,http://219.151.136.146/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
-CCTV15,http://219.151.136.146/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCTV16,http://219.151.136.146/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-CCTV17,http://219.151.136.146/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
-CCTV5+,http://219.151.136.146/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
 
 CCTV1,http://219.142.150.193:9901/tsfile/live/0001_1.m3u8
 CCTV2,http://219.142.150.193:9901/tsfile/live/0002_1.m3u8
@@ -247,35 +209,42 @@ CCTV5+,http://219.142.150.193:9901/tsfile/live/0018_1.m3u8
 广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
 广东体育,http://xjayrf.eatuo.com:9901/tsfile/live/1014_1.m3u8
 
-五星体育,http://116.153.46.98/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+
+五星体育1,http://lu1.cc/itv/php/bst5g.php?id=wxty
+五星体育1,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+五星体育1,http://cfss.cc/ds/bst.php?id=Cf-54
+五星体育2,http://tvmvip110.club/bs1.php?id=40
+
 
 劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
 劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 
+智林体育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+
 CCTV5,http://hms364nc1972679593.live.aikan.miguvideo.com/wh7f454c46tw3108930238_-1163429574/wd_r2/cctv/cctv5hdnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.138.167.9&timestamp=20230206044709&ContentId=265667565&timezone=UTC&mtv_session=1729555ac478ff7575d42d2a087c363c&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6b2e528e119a071d44a14eafd6da510a
 CCTV5,http://hms464nc1972679603.live.aikan.miguvideo.com/wh7f454c46tw1822234231_348127062/wd_r2/cctv/cctv5hdnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.234.195&timestamp=20230213055028&ContentId=265667565&timezone=UTC&mtv_session=81bcd7f0f298bdda3e816ecdbed1cbff&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0a2ea17c3d8f5262f3ae0a447e3e69cd
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-
 CCTV5+,http://hms124nc1972679569.live.aikan.miguvideo.com/wh7f454c46tw3270085095_-1329995043/wd_r2/cctv/cctv5plusnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.138.167.9&timestamp=20230206044950&ContentId=265106763&timezone=UTC&mtv_session=ca4f319251b40f2bc3d45c45b07a7515&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d48fc0334678ba6b5611f016bab9983b
-
 CCTV16,http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
 
+咪咕体育-4K,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
+咪咕体育-4K,http://117.136.156.71:80/000000001000/3000000010000005180/index.m3u8
+咪咕体育-4K,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
 
 
 🏠港台🚊,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8$广东
+翡翠台,http://nas.jdshipin.com:8801/gdfc.php$广东
+翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8$广东
 翡翠台,http://r.jdshipin.com/qClQf$广东
 翡翠台,http://r.jdshipin.com/62WM7$广东
 翡翠台,http://nas.jdshipin.com:8801/gdfc.php$广东
-翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
-翡翠台,http://59.149.114.27:9981/stream/channelid/1255701536?profile=matroska
+翡翠台,http://23.237.10.66:16106
 翡翠台,http://radius.8866.org:800/hls/80/index.m3u8
 翡翠台,http://shazui.8866.org:800/hls/80/index.m3u8
-翡翠台,http://23.237.10.66:16106
+
 明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8$广东
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
@@ -291,63 +260,37 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 有线新闻,http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8
 有线新闻,http://61.10.2.148:80/live_freedirect/freehd209_h.live/chunklist.m3u8
 有线新闻,https://api.leonardpark.dev/live/icable/109
-无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
 
 中天综合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.flv
 中天综合,http://23.237.10.66:16372
 台视,http://23.237.10.66:16344
-民视台湾台,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
-民视,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
-民视第一台,http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
-中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
-华视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
-华视,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
-智林体育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
-民视综艺台,http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
-猪哥亮,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8
-影迷数位电影,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
-CNEX,http://www.336699.live:1935/blockfour/4gtv-4gtv013.stream/playlist.m3u8
-八大精彩台,http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
-八大综合台,http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/playlist.m3u8
-TVBS欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
-TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
+
+
 爱尔达娱乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
-公视戏剧,http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
-HakkaTV,http://www.336699.live:1935/blockfour/4gtv-4gtv043.stream/playlist.m3u8
-靖洋卡通台,http://www.336699.live:1935/blockfour/4gtv-4gtv057.stream/playlist.m3u8
-靖洋戏剧台,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
-采昌影剧,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
-靖天日本台,http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8
 靖天欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
-靖天映画,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
 靖天卡通台,http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
 靖天戏剧台,http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
-靖天电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
 靖天育乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
 靖天国际,http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
-中视,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
 中视菁采台,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
-中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
-中视经典,http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8
-CatchPlay电影,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
 ARIRANGTV,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
 TRACESPORTS,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
 TRACEURBAN,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 MEZZOLIVEHD,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
-东森新闻台,http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
+
+
 台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-原住民,http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
 
 ✈️国际🚢,#genre#
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CGTN,https://live.v1.mk/aishang/cgtnhd
 CGTN,http://live.cgtn.com/500/prog_index.m3u8
 News,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
@@ -376,23 +319,18 @@ aljazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 蜡笔小新,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_120_600_t10/c51_lb_120_600_t10.m3u8?key
 
 
-
 周星驰粤语,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
 周星驰国语,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353881242
 李连杰1,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
-李连杰2,http://106.53.212.251/daili/yy.php?id=38670875
 
 4k超高清电影,http://159.75.85.63:5681/sxg.php
 欧美电影,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-
 豆瓣高分,http://akm-tct.douyucdn.cn/live/8770422rP205D3AU.flv?uuid=
 漫威电影,http://akm-tct.douyucdn.cn/live/6140589rOHyw7C76.flv?uuid=
 
+
 儿歌轮播,http://huaweicdnnewct.inter.iqiyi.com/tslive/l1/c57_lb_242_600_t10/oFyEExpIprfMsS9lffc69ze0ngeCUqPLJMsJTGilb_l5g9I-7beRclNIWjC2EipQf_Hyz4JHqxNjNpCfEjRjR-Gqi1m94IFLP161_jUgGzNM27UNiIz3C1VTJ11gy7w9O_OEtVWTBwD5VtzrVnirKIWVusnM2dt8vhxzqNMEPUXZuDZzaYk09rEaL0fUqbJGIhvEeQM7WuiIigByPxYhswDdna8uIB0MCv7RRuDvZ8HaA0RtBMXz7YFD_zyeblxKFgqODqyHGS66SaSlrk0Jng/17f5d5f3cca18548896028f06796a2345/c57_lb_242_600_t10.m3u8?key=0fd320ecf4dd91c42a897cb07c34dd1ff&dis_t=1676271049&z=huaweicdnnew_ct&pv=0.2
 儿歌轮播,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_242_600_t10/c57_lb_242_600_t10.m3u8?key
-
-贝瓦儿歌,http://hlslive.video.iqiyi.com/tslive/c56_lb_188_600_t10/c56_lb_188_600_t10.m3u8?pv=0.2&qd_tvid=7276947758485323&qd_vipres=0&qd_scc=4f2c795a8bddde76978e544fe0da4358&qd_sc=85916c8ed1483b1b6b26cf5bb6cec659&qd_did=ad7vf4bcq5zjlq7ismb5qan25ldho75m&qd_ip=7cde89aa&qd_vip=0&qd_uid=0&qd_p=7cde89aa&qd_src=03020031010000000000&qd_tm=1676255744980&qd_k=394fbd1cb0280d79d5060759ebde589f
 贝瓦儿歌,http://ctyuncdnct.inter.iqiyi.com/tslive/l1/c56_lb_188_600_t10/PeD9Q_T7ZZdzc3rd6dtYMJCl1svqI6ZzwS8y4j4Zas9ebCzIc8v1D1WDIe3YOVPQdRrNe20KMH-mY1839BvIltDWwyCJPyPw3Cvl6W1-UThIb4aiEfvwfFZSvCubXrTBCMVWBnrELiZ4F-f4Zrw4xRIH3FNSf1Ow-zAOyuuOWSu2ZAeLAAHrt1uDXjO5SzXUUgCSE2P92Ttp1l-puuAWxAQUD6_tcqw92I_-NO8krsey0mbz89s6oC646X-n5yVb1OQZp44B5dPCz9phVDY4VA/13bfa2070d440d037ff3f17bb45d28cc7/c56_lb_188_600_t10.m3u8?key=0fd320ecf4dd91c42ca82d682da95a2e4&dis_t=1676255744&z=ctyuncdn_ct&pv=0.2
 贝瓦儿歌,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_188_600_t10/c56_lb_188_600_t10.m3u8?key
 英文儿歌,http://gdctyuncdnct.inter.iqiyi.com/tslive/l1/c55_lb_128_600_t10/2pG2_60CcvBOhTGaLZ9H-6li6PpdgKgM0-9oAxwKFa4ieMHUy-r3y7tbpuuLiiatQMGNkPaMOw4hKHOdhGERdYPOurWPmj84j0t4cM6s2lmHok6cXE5ROfwrl6qfbv-a_qTtemjeDozXi5LAHsPQ8v1PUmXsRdly3syYqtCEkzn3_57AyuGlIQ9KxR2ZXL5p8Ud_RMUo0eZQJ11a9AdyGb9lFfFdXogDk6Nkb0PVaUufv_A-lQymzCEujg37H54JBbp4YGot7Udr91_pGXWLHg/1c1f8c0769b3e6e88af25c4db12df26c0/c55_lb_128_600_t10.m3u8?key=0fd320ecf4dd91c42956bd9ada4495878&dis_t=1676271867&z=gdctyun_ct&pv=0.2
@@ -413,6 +351,7 @@ CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 CHC家庭影院,http://hms204nc1972679577.live.aikan.miguvideo.com/wh7f454c46tw581489424_-524771923/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.138.167.9&timestamp=20230206051637&ContentId=265667645&timezone=UTC&mtv_session=06c1bcce54ddf43d19ca2bfdea2ecf01&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3c0926c00758b06e8959c82618cacf4b
 
+广场舞,http://fyld.eatuo.com:9901/tsfile/live/1007_1.m3u8
 糖豆广场舞,http://verycloudcdnct.inter.iqiyi.com/tslive/l1/c56_lb_235_600_t10/l9Ty8rZ24bXreY1KWkhyV14k85c2wptJnP8Em1MXqwLI1ClbDK9Q8ccbJgsegdCDzYvKyztI6i9Msb8n4iKoHOVHFS4-ii1vzobm3vFVgTisk9zMc81DQqQY-_D-RRbdN8IQG0spZ76Vl0G-GApI_ljNncJUqZ0gA6maIamjKnoB1EjRkf1j8Md30q14DNt26HxnVrHz-La4qA2sbwIC79ITGNJNZSguqEFTx7gZXvn5IjAhtJTIUi0ctrDqYvXZMDt_JpwnMtJfwIKpfxKbRg/1ff25af9012b25e4f56439d8e8d201b82/c56_lb_235_600_t10.m3u8?key=0fd320ecf4dd91c4267cf476d812e6082&dis_t=1676271462&z=verycloud_ct&pv=0.2
 糖豆广场舞,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_235_600_t10/c56_lb_235_600_t10.m3u8?key
 古装武侠,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
@@ -422,50 +361,24 @@ CHC家庭影院,http://hms204nc1972679577.live.aikan.miguvideo.com/wh7f454c46tw5
 
 
 🐶4K🐬,#genre#
-CCTV4K,http://159.75.85.63:5679/cctv4k.php
-CCTV4K,http://159.75.85.63:8765/telegram@feiyangdigital-cctv4k.m3u8
 CCTV4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 CCTV4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+CCTV4K,http://159.75.85.63:8765/telegram@feiyangdigital-cctv4k.m3u8
 CCTV4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//1/v15M/index.m3u8
 CCTV4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
 
-CCTV16-4K,http://159.75.85.63:8765/telegram@feiyangdigital-cctv16-4k.m3u8
 CCTV16-4K,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
-CCTV16-4K,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
-CCTV16-4K,http://219.151.136.146/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+CCTV16-4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
+CCTV16-4K,http://159.75.85.63:8765/telegram@feiyangdigital-cctv16-4k.m3u8
 CCTV16-4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
 CCTV16-4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
-CCTV16-4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
-
-
 
 广东综艺4K,http://159.75.85.63:8765/telegram@feiyangdigital-gdzy4k.m3u8
 欢笑剧场4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-
-咪咕体育-4K,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
-咪咕体育-4K,http://117.136.156.71:80/000000001000/3000000010000005180/index.m3u8
-咪咕体育-4K,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
-
 爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 MUZZIK_ZZ4000_4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
-
-
-
-👪地方🚗,#genre#
-广东珠江,http://fyld.eatuo.com:9901/tsfile/live/1009_1.m3u8
-广场舞,http://fyld.eatuo.com:9901/tsfile/live/1007_1.m3u8
-五华,http://fyld.eatuo.com:9901/tsfile/live/1000_1.m3u8
-五华信息,http://fyld.eatuo.com:9901/tsfile/live/1001_1.m3u8
-梅州1,http://fyld.eatuo.com:9901/tsfile/live/1002_1.m3u8
-客家生活,http://fyld.eatuo.com:9901/tsfile/live/1003_1.m3u8
-第一财经,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
-上海新闻,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
-青春动漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
-宝宝动画,https://live.v1.mk/api/bestv.php?id=bbdh8m/8000000
-
-
 
 
 
@@ -494,18 +407,126 @@ MUZZIK_ZZ4000_4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 新疆那拉提空中草原,https://gccncc.v.wscdns.com/gc/wgw03_1/index.m3u8?contentid=2820180516001
 新疆那拉提风景区,https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1_md.m3u8
 西藏拉萨纳木措,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
-南京长江大桥,https://gcalic.v.myalicdn.com/gc/hsxkscj_1/index.m3u8?contentid=2820180516001
 丽江天文观测台,https://gccncc.v.wscdns.com/gc/tyhjrys_1/index.m3u8?contentid=2820180516001
 丽江玉龙雪山,https://gctxyc.liveplay.myqcloud.com/gc/ylxs11_1/index.m3u8?contentid=2820180516001
-杭州千岛湖,https://gctxyc.liveplay.myqcloud.com/gc/caqdh_1/index.m3u8?contentid=2820180516001
 四川九寨沟,https://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8?contentid=2820180516001
 四川达古冰川,https://gc2ksc.v.kcdnvip.com/gc/ztx_1/index.m3u8?contentid=2820180516001
 四川黄龙五彩池,https://gctxyc.liveplay.myqcloud.com/gc/hlwcc_1/index.m3u8?contentid=2820180516001
-成都天府熊猫塔,https://gcbdc.a.bdydns.com/gc/lhszjsp_1/index.m3u8?contentid=2820180516001
-
 
 
 🌞电信组播,#genre#
+CCTV-1高清,http://fxhack.f3322.org:8000/udp/239.77.1.17:5146
+CCTV-1高清,http://fxhack.f3322.org:8000/udp/239.77.1.144:5146
+CCTV-1高清,http://fxhack.f3322.org:8000/udp/239.77.0.86:5146
+CCTV-1超清,http://fxhack.f3322.org:8000/udp/239.77.0.129:5146
+CCTV-2高清,http://fxhack.f3322.org:8000/udp/239.77.1.158:5146
+CCTV-2高清,http://fxhack.f3322.org:8000/udp/239.253.43.17:5146
+CCTV-2高清,http://fxhack.f3322.org:8000/udp/239.77.0.137:5146
+CCTV-3高清,http://fxhack.f3322.org:8000/udp/239.77.0.169:5146
+CCTV-3超清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.0.175:5146
+CCTV-4高清,http://fxhack.f3322.org:8000/udp/239.77.1.163:5146
+CCTV-4高清,http://fxhack.f3322.org:8000/udp/239.77.1.166:5146
+CCTV-4高清,http://fxhack.f3322.org:8000/udp/239.77.0.78:5146
+CCTV-5高清,http://fxhack.f3322.org:8000/udp/239.77.0.170:5146
+CCTV-5超清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.0.177:5146
+CCTV-5+高清,http://fxhack.f3322.org:8000/udp/239.77.0.87:5146
+CCTV-5+高清,http://fxhack.f3322.org:8000/udp/239.77.1.31:5146
+CCTV-6高清,http://fxhack.f3322.org:8000/udp/239.77.0.171:5146
+CCTV-6超清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.0.178:5146
+CCTV-7高清,http://fxhack.f3322.org:8000/udp/239.77.1.159:5146
+CCTV-7高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.167:5146
+CCTV-7高清,http://fxhack.f3322.org:8000/udp/239.77.0.138:5146
+CCTV-8高清,http://fxhack.f3322.org:8000/udp/239.77.0.172:5146
+CCTV-8超清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.0.181:5146
+CCTV-9高清,http://fxhack.f3322.org:8000/udp/239.77.1.160:5146
+CCTV-9高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.168:5146
+CCTV-9高清,http://fxhack.f3322.org:8000/udp/239.77.0.135:5146
+CCTV-10高清,http://fxhack.f3322.org:8000/udp/239.77.1.113:5146
+CCTV-10高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.169:5146
+CCTV-10高清,http://fxhack.f3322.org:8000/udp/239.77.0.134:5146
+CCTV-11高清,http://fxhack.f3322.org:8000/udp/239.77.1.238:5146
+CCTV-12高清,http://fxhack.f3322.org:8000/udp/239.77.1.109:5146
+CCTV-12高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.170:5146
+CCTV-12高清,http://fxhack.f3322.org:8000/udp/239.77.0.136:5146
+CCTV-13高清,http://fxhack.f3322.org:8000/udp/239.77.0.188:5146
+CCTV-13高清,http://fxhack.f3322.org:8000/udp/239.253.43.196:5146
+CCTV-14高清,http://fxhack.f3322.org:8000/udp/239.77.1.161:5146
+CCTV-14高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.171:5146
+CCTV-14高清,http://fxhack.f3322.org:8000/udp/239.77.0.133:5146
+CCTV-15高清,http://fxhack.f3322.org:8000/udp/239.77.1.239:5146
+CCTV-16高清,http://fxhack.f3322.org:8000/udp/239.77.1.76:5146
+CCTV-17高清,http://fxhack.f3322.org:8000/udp/239.77.1.121:5146
+CCTV-17高清,http://fxhack.f3322.org:8000/udp/239.77.0.198:5146
+CCTV16-4K,http://fxhack.f3322.org:8000/udp/239.77.1.98:5146
+CGTN,http://fxhack.f3322.org:8000/udp/239.77.0.45:5146
+CGTN,http://fxhack.f3322.org:8000/udp/239.77.1.27:5146
+CETV1,http://fxhack.f3322.org:8000/udp/239.77.0.200:5146
+CHC电影,http://fxhack.f3322.org:8000/udp/239.77.0.27:5146
+汕头综合,http://fxhack.f3322.org:8000/udp/239.253.43.45:5146
+汕头综合,http://fxhack.f3322.org:8000/udp/239.77.1.130:5146
+汕头经济生活,http://fxhack.f3322.org:8000/udp/239.253.43.46:5146
+汕头经济生活,http://fxhack.f3322.org:8000/udp/239.77.1.131:5146
+汕头文旅体育,http://fxhack.f3322.org:8000/udp/239.253.43.47:5146
+汕头文旅体育,http://fxhack.f3322.org:8000/udp/239.77.1.132:5146
+揭阳综合高清,http://fxhack.f3322.org:8000/udp/239.77.0.229:5146
+揭阳生活高清,http://fxhack.f3322.org:8000/udp/239.77.0.251:5146
+广东珠江高清,http://fxhack.f3322.org:8000/udp/239.77.0.1:5146
+广东珠江超清,http://fxhack.f3322.org:8000/udp/239.77.0.114:5146
+广东新闻高清,http://fxhack.f3322.org:8000/udp/239.77.0.173:5146
+广东公共高清,http://fxhack.f3322.org:8000/udp/239.77.0.225:5146
+广东影视高清,http://fxhack.f3322.org:8000/udp/239.77.0.217:5146
+广东少儿高清,http://fxhack.f3322.org:8000/udp/239.77.0.250:5146
+广东体育高清,http://fxhack.f3322.org:8000/udp/239.77.0.112:5146
+广东体育超清,http://fxhack.f3322.org:8000/udp/239.77.0.168:5146
+广东体育576,http://fxhack.f3322.org:8000/udp/239.77.0.6:5146
+广东体育(深圳),http://fxhack.f3322.org:8000/udp/239.77.1.97:5146
+深圳体育,http://fxhack.f3322.org:8000/udp/239.77.1.128:5146
+广东影视,http://fxhack.f3322.org:8000/udp/239.77.0.217:5146
+广东移动,http://fxhack.f3322.org:8000/udp/239.77.0.20:5146
+广东少儿,http://fxhack.f3322.org:8000/udp/239.77.0.250:5146
+大湾区卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.215:5146
+经济科教,http://fxhack.f3322.org:8000/udp/239.77.0.85:5146
+嘉佳卡通,http://fxhack.f3322.org:8000/udp/239.77.0.179:5146
+广东卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.19:5146
+广东卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.152:5146
+广东卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.84:5146
+广东卫视超清,http://fxhack.f3322.org:8000/udp/239.77.0.166:5146
+深圳卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.3:5146
+深圳卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.148:5146
+深圳卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.92:5146
+深圳卫视超清,http://fxhack.f3322.org:8000/udp/239.77.0.130:5146
+湖南卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.5:5146
+湖南卫视高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.129:5146
+湖南卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.88:5146
+湖南卫视超清,http://fxhack.f3322.org:8000/udp/239.77.0.127:5146
+浙江卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.33:5146
+浙江卫视高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.150:5146
+浙江卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.89:5146
+浙江卫视超清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.0.125:5146
+江苏卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.18:5146
+江苏卫视高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.149:5146
+江苏卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.90:5146
+江苏卫视超清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.0.126:5146
+东方卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.218:5146
+东方卫视高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.156:5146
+东方卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.98:5146
+安徽卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.92:5146
+安徽卫视高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.157:5146
+安徽卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.183:5146
+北京卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.4:5146
+北京卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.151:5146
+北京卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.91:5146
+辽宁卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.103:5146
+辽宁卫视 高清,http://fxhack.f3322.org:8000/udp/239.77.0.123:5146
+辽宁卫视超清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.0.161:5146
+四川卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.215:5146
+四川卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.159:5146
+四川卫视超清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.0.163:5146
+东南卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.104:5146
+东南卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.146:5146
+天津卫视,http://fxhack.f3322.org:8000/udp/239.77.0.97:5146
+山东卫视,http://fxhack.f3322.org:8000/udp/239.77.0.94:5146
+
 CCTV-1高清,http://ly01.eu.org:10000/udp/239.77.1.17:5146
 CCTV-1高清,http://ly01.eu.org:10000/udp/239.77.1.144:5146
 CCTV-1高清,http://ly01.eu.org:10000/udp/239.77.0.86:5146
@@ -619,117 +640,7 @@ CHC电影,http://ly01.eu.org:10000/udp/239.77.0.27:5146
 山东卫视,http://ly01.eu.org:10000/udp/239.77.0.94:5146
 
 
-CCTV-1高清,http://fxhack.f3322.org:8000/udp/239.77.1.17:5146
-CCTV-1高清,http://fxhack.f3322.org:8000/udp/239.77.1.144:5146
-CCTV-1高清,http://fxhack.f3322.org:8000/udp/239.77.0.86:5146
-CCTV-1超清,http://fxhack.f3322.org:8000/udp/239.77.0.129:5146
-CCTV-2高清,http://fxhack.f3322.org:8000/udp/239.77.1.158:5146
-CCTV-2高清,http://fxhack.f3322.org:8000/udp/239.253.43.17:5146
-CCTV-2高清,http://fxhack.f3322.org:8000/udp/239.77.0.137:5146
-CCTV-3高清,http://fxhack.f3322.org:8000/udp/239.77.0.169:5146
-CCTV-3超清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.0.175:5146
-CCTV-4高清,http://fxhack.f3322.org:8000/udp/239.77.1.163:5146
-CCTV-4高清,http://fxhack.f3322.org:8000/udp/239.77.1.166:5146
-CCTV-4高清,http://fxhack.f3322.org:8000/udp/239.77.0.78:5146
-CCTV-5高清,http://fxhack.f3322.org:8000/udp/239.77.0.170:5146
-CCTV-5超清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.0.177:5146
-CCTV-5+高清,http://fxhack.f3322.org:8000/udp/239.77.0.87:5146
-CCTV-5+高清,http://fxhack.f3322.org:8000/udp/239.77.1.31:5146
-CCTV-6高清,http://fxhack.f3322.org:8000/udp/239.77.0.171:5146
-CCTV-6超清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.0.178:5146
-CCTV-7高清,http://fxhack.f3322.org:8000/udp/239.77.1.159:5146
-CCTV-7高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.167:5146
-CCTV-7高清,http://fxhack.f3322.org:8000/udp/239.77.0.138:5146
-CCTV-8高清,http://fxhack.f3322.org:8000/udp/239.77.0.172:5146
-CCTV-8超清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.0.181:5146
-CCTV-9高清,http://fxhack.f3322.org:8000/udp/239.77.1.160:5146
-CCTV-9高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.168:5146
-CCTV-9高清,http://fxhack.f3322.org:8000/udp/239.77.0.135:5146
-CCTV-10高清,http://fxhack.f3322.org:8000/udp/239.77.1.113:5146
-CCTV-10高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.169:5146
-CCTV-10高清,http://fxhack.f3322.org:8000/udp/239.77.0.134:5146
-CCTV-11高清,http://fxhack.f3322.org:8000/udp/239.77.1.238:5146
-CCTV-12高清,http://fxhack.f3322.org:8000/udp/239.77.1.109:5146
-CCTV-12高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.170:5146
-CCTV-12高清,http://fxhack.f3322.org:8000/udp/239.77.0.136:5146
-CCTV-13高清,http://fxhack.f3322.org:8000/udp/239.77.0.188:5146
-CCTV-13高清,http://fxhack.f3322.org:8000/udp/239.253.43.196:5146
-CCTV-14高清,http://fxhack.f3322.org:8000/udp/239.77.1.161:5146
-CCTV-14高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.171:5146
-CCTV-14高清,http://fxhack.f3322.org:8000/udp/239.77.0.133:5146
-CCTV-15高清,http://fxhack.f3322.org:8000/udp/239.77.1.239:5146
-CCTV-16高清,http://fxhack.f3322.org:8000/udp/239.77.1.76:5146
-CCTV-17高清,http://fxhack.f3322.org:8000/udp/239.77.1.121:5146
-CCTV-17高清,http://fxhack.f3322.org:8000/udp/239.77.0.198:5146
-CCTV16-4K,http://fxhack.f3322.org:8000/udp/239.77.1.98:5146
-CGTN,http://fxhack.f3322.org:8000/udp/239.77.0.45:5146
-CGTN,http://fxhack.f3322.org:8000/udp/239.77.1.27:5146
-CETV1,http://fxhack.f3322.org:8000/udp/239.77.0.200:5146
-CHC电影,http://fxhack.f3322.org:8000/udp/239.77.0.27:5146
-汕头综合,http://fxhack.f3322.org:8000/udp/239.253.43.45:5146
-汕头综合,http://fxhack.f3322.org:8000/udp/239.77.1.130:5146
-汕头经济生活,http://fxhack.f3322.org:8000/udp/239.253.43.46:5146
-汕头经济生活,http://fxhack.f3322.org:8000/udp/239.77.1.131:5146
-汕头文旅体育,http://fxhack.f3322.org:8000/udp/239.253.43.47:5146
-汕头文旅体育,http://fxhack.f3322.org:8000/udp/239.77.1.132:5146
-揭阳综合高清,http://fxhack.f3322.org:8000/udp/239.77.0.229:5146
-揭阳生活高清,http://fxhack.f3322.org:8000/udp/239.77.0.251:5146
-广东珠江高清,http://fxhack.f3322.org:8000/udp/239.77.0.1:5146
-广东珠江超清,http://fxhack.f3322.org:8000/udp/239.77.0.114:5146
-广东新闻高清,http://fxhack.f3322.org:8000/udp/239.77.0.173:5146
-广东公共高清,http://fxhack.f3322.org:8000/udp/239.77.0.225:5146
-广东影视高清,http://fxhack.f3322.org:8000/udp/239.77.0.217:5146
-广东少儿高清,http://fxhack.f3322.org:8000/udp/239.77.0.250:5146
-广东体育高清,http://fxhack.f3322.org:8000/udp/239.77.0.112:5146
-广东体育超清,http://fxhack.f3322.org:8000/udp/239.77.0.168:5146
-广东体育576,http://fxhack.f3322.org:8000/udp/239.77.0.6:5146
-广东体育(深圳),http://fxhack.f3322.org:8000/udp/239.77.1.97:5146
-深圳体育,http://fxhack.f3322.org:8000/udp/239.77.1.128:5146
-广东影视,http://fxhack.f3322.org:8000/udp/239.77.0.217:5146
-广东移动,http://fxhack.f3322.org:8000/udp/239.77.0.20:5146
-广东少儿,http://fxhack.f3322.org:8000/udp/239.77.0.250:5146
-大湾区卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.215:5146
-经济科教,http://fxhack.f3322.org:8000/udp/239.77.0.85:5146
-嘉佳卡通,http://fxhack.f3322.org:8000/udp/239.77.0.179:5146
-广东卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.19:5146
-广东卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.152:5146
-广东卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.84:5146
-广东卫视超清,http://fxhack.f3322.org:8000/udp/239.77.0.166:5146
-深圳卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.3:5146
-深圳卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.148:5146
-深圳卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.92:5146
-深圳卫视超清,http://fxhack.f3322.org:8000/udp/239.77.0.130:5146
-湖南卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.5:5146
-湖南卫视高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.129:5146
-湖南卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.88:5146
-湖南卫视超清,http://fxhack.f3322.org:8000/udp/239.77.0.127:5146
-浙江卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.33:5146
-浙江卫视高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.150:5146
-浙江卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.89:5146
-浙江卫视超清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.0.125:5146
-江苏卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.18:5146
-江苏卫视高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.149:5146
-江苏卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.90:5146
-江苏卫视超清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.0.126:5146
-东方卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.218:5146
-东方卫视高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.156:5146
-东方卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.98:5146
-安徽卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.92:5146
-安徽卫视高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.157:5146
-安徽卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.183:5146
-北京卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.4:5146
-北京卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.151:5146
-北京卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.91:5146
-辽宁卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.103:5146
-辽宁卫视 高清,http://fxhack.f3322.org:8000/udp/239.77.0.123:5146
-辽宁卫视超清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.0.161:5146
-四川卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.215:5146
-四川卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.159:5146
-四川卫视超清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.0.163:5146
-东南卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.104:5146
-东南卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.146:5146
-天津卫视,http://fxhack.f3322.org:8000/udp/239.77.0.97:5146
-山东卫视,http://fxhack.f3322.org:8000/udp/239.77.0.94:5146
+
 
 🌜电信内网,#genre#
 汕头综合,rtp://239.77.1.130:5146
