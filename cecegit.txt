@@ -1,45 +1,86 @@
 😃央视😘,#genre#
-CCTV1,https://live.v1.mk/aishang/cctv1hd
-CCTV2,https://live.v1.mk/aishang/cctv2hd
-CCTV3,https://live.v1.mk/aishang/cctv3hd
-CCTV4,https://live.v1.mk/aishang/cctv4hd
-CCTV5,https://live.v1.mk/aishang/cctv5hd
-CCTV5+,https://live.v1.mk/aishang/cctv5p
-CCTV6,https://live.v1.mk/aishang/cctv6hd
-CCTV7,https://live.v1.mk/aishang/cctv7hd
-CCTV8,https://live.v1.mk/aishang/cctv8hd
-CCTV9,https://live.v1.mk/aishang/cctv9hd2
-CCTV10,https://live.v1.mk/aishang/cctv10hd
-CCTV11,https://live.v1.mk/aishang/cctv11hd
-CCTV12,https://live.v1.mk/aishang/cctv12hd
-CCTV13,https://live.v1.mk/aishang/cctv13hd
-CCTV14,https://live.v1.mk/aishang/cctv14hd
-CCTV15,https://live.v1.mk/aishang/cctv15hd
-CCTV16,https://live.v1.mk/aishang/cctv16hd
-CCTV17,https://live.v1.mk/aishang/cctv17hd
-
-
-CCTV1,http://121.24.98.3:8090/hls/9/index.m3u8
-CCTV2,http://121.24.98.3:8090/hls/10/index.m3u8
-CCTV3,http://121.24.98.3:8090/hls/11/index.m3u8
-CCTV4,http://121.24.98.3:8090/hls/12/index.m3u8
-CCTV5,http://121.24.98.3:8090/hls/13/index.m3u8
-CCTV5+,http://121.24.98.3:8090/hls/5/index.m3u8
-CCTV6,http://121.24.98.3:8090/hls/14/index.m3u8
-CCTV7,http://121.24.98.3:8090/hls/15/index.m3u8
-CCTV8,http://121.24.98.3:8090/hls/16/index.m3u8
-CCTV9,http://121.24.98.3:8090/hls/17/index.m3u8
-CCTV10,http://121.24.98.3:8090/hls/18/index.m3u8
-CCTV11,http://121.24.98.3:8090/hls/19/index.m3u8
-CCTV12,http://121.24.98.3:8090/hls/20/index.m3u8
-CCTV13,http://121.24.98.3:8090/hls/21/index.m3u8
-CCTV14,http://121.24.98.3:8090/hls/22/index.m3u8
-CCTV15,http://121.24.98.3:8090/hls/23/index.m3u8
-CCTV16,http://219.142.150.193:9901/tsfile/live/0016_1.m3u8
-CCTV17,http://121.24.98.3:8090/hls/24/index.m3u8
+CCTV1,http://chuangye168.gnway.org:56994/a78s.php?id=cctv1hd
+CCTV2,http://chuangye168.gnway.org:56994/a78s.php?id=cctv2hd
+CCTV3,http://chuangye168.gnway.org:56994/a78s.php?id=cctv3hd
+CCTV4,http://chuangye168.gnway.org:56994/a78s.php?id=cctv4hd
+CCTV5,http://chuangye168.gnway.org:56994/a78s.php?id=cctv5hd
+CCTV5+,http://chuangye168.gnway.org:56994/a78s.php?id=cctv5p
+CCTV6,http://chuangye168.gnway.org:56994/a78s.php?id=cctv6hd
+CCTV7,http://chuangye168.gnway.org:56994/a78s.php?id=cctv7hd
+CCTV8,http://chuangye168.gnway.org:56994/a78s.php?id=cctv8hd
+CCTV9,http://chuangye168.gnway.org:56994/a78s.php?id=cctv9hd
+CCTV9,http://chuangye168.gnway.org:56994/a78s.php?id=cctv9hd2
+CCTV10,http://chuangye168.gnway.org:56994/a78s.php?id=cctv10hd
+CCTV11,http://chuangye168.gnway.org:56994/a78s.php?id=cctv11hd
+CCTV12,http://chuangye168.gnway.org:56994/a78s.php?id=cctv12hd
+CCTV13,http://chuangye168.gnway.org:56994/a78s.php?id=cctv13hd
+CCTV14,http://chuangye168.gnway.org:56994/a78s.php?id=cctv14hd
+CCTV15,http://chuangye168.gnway.org:56994/a78s.php?id=cctv15hd
+CCTV16,http://chuangye168.gnway.org:56994/a78s.php?id=cctv16hd
+CCTV17,http://chuangye168.gnway.org:56994/a78s.php?id=cctv17hd
 
 
 
+CCTV1,http://chuangye168.gnway.org:56994/gh94.php?id=CCTV1HD_6000
+CCTV2,http://chuangye168.gnway.org:56994/gh94.php?id=CCTV2HD_6000
+CCTV3,http://chuangye168.gnway.org:56994/gh94.php?id=CCTV3HD_6000
+CCTV4,http://chuangye168.gnway.org:56994/gh94.php?id=CCTV4HD_6000
+CCTV5,http://chuangye168.gnway.org:56994/gh94.php?id=CCTV5HD_6000
+CCTV5+,http://chuangye168.gnway.org:56994/gh94.php?id=CCTV5plusHD_6000
+CCTV6,http://chuangye168.gnway.org:56994/gh94.php?id=CCTV6HD_6000
+CCTV7,http://chuangye168.gnway.org:56994/gh94.php?id=CCTV7HD_6000
+CCTV8,http://chuangye168.gnway.org:56994/gh94.php?id=CCTV8HD_6000
+CCTV9,http://chuangye168.gnway.org:56994/gh94.php?id=CCTV9HD_6000
+CCTV10,http://chuangye168.gnway.org:56994/gh94.php?id=CCTV10HD_6000
+CCTV12,http://chuangye168.gnway.org:56994/gh94.php?id=CCTV12HD_6000
+CCTV14,http://chuangye168.gnway.org:56994/gh94.php?id=CCTV14HD_6000
+CCTV15,http://chuangye168.gnway.org:56994/gh94.php?id=CCTV15HD_6000
+CCTV16,http://chuangye168.gnway.org:56994/gh94.php?id=CCTV16HD_6000
+CCTV17,http://chuangye168.gnway.org:56994/gh94.php?id=CCTV17HD_6000
+
+
+
+CCTV1,http://chuangye168.gnway.org:56994/g8dyou.php?id=CCTV1HD_7000
+CCTV2,http://chuangye168.gnway.org:56994/g8dyou.php?id=CCTV2HD_7000
+CCTV3,http://chuangye168.gnway.org:56994/g8dyou.php?id=CCTV3HD_7000
+CCTV4,http://chuangye168.gnway.org:56994/g8dyou.php?id=CCTV-4HD_7500
+CCTV5,http://chuangye168.gnway.org:56994/g8dyou.php?id=1605_4500
+CCTV5+,http://chuangye168.gnway.org:56994/g8dyou.php?id=1403_4500
+CCTV6,http://chuangye168.gnway.org:56994/g8dyou.php?id=CCTV6HD_7000
+CCTV7,http://chuangye168.gnway.org:56994/g8dyou.php?id=CCTV7HD_7000
+CCTV8,http://chuangye168.gnway.org:56994/g8dyou.php?id=CCTV8HD_7000
+CCTV9,http://chuangye168.gnway.org:56994/g8dyou.php?id=CCTV9HD_7000
+CCTV10,http://chuangye168.gnway.org:56994/g8dyou.php?id=CCTV10HD_7000
+CCTV11,http://chuangye168.gnway.org:56994/g8dyou.php?id=CCTV-11HD_7500
+CCTV12,http://chuangye168.gnway.org:56994/g8dyou.php?id=CCTV12HD_7000
+CCTV13,http://chuangye168.gnway.org:56994/g8dyou.php?id=1613
+CCTV14,http://chuangye168.gnway.org:56994/g8dyou.php?id=CCTV14HD_7000
+CCTV15,http://chuangye168.gnway.org:56994/g8dyou.php?id=CCTV-15HD_7500
+CCTV16,http://chuangye168.gnway.org:56994/g8dyou.php?id=1617_4500
+CCTV17,http://chuangye168.gnway.org:56994/g8dyou.php?id=CCTV17HD
+
+
+
+
+
+CCTV1,http://chuangye168.gnway.org:56994/s3x6g.php?id=CCTV-1H265_4000
+CCTV2,http://chuangye168.gnway.org:56994/s3x6g.php?id=CCTV-2H265_4000
+CCTV3,http://chuangye168.gnway.org:56994/s3x6g.php?id=CCTV-3H265_4000
+CCTV4,http://chuangye168.gnway.org:56994/s3x6g.php?id=CCTV-4H265_4000
+CCTV5,http://chuangye168.gnway.org:56994/s3x6g.php?id=CCTV-5H265_4000
+CCTV5+,http://chuangye168.gnway.org:56994/s3x6g.php?id=CCTV-5plusH265_4000
+CCTV6,http://chuangye168.gnway.org:56994/s3x6g.php?id=CCTV-6H265_4000
+CCTV7,http://chuangye168.gnway.org:56994/s3x6g.php?id=CCTV-7H265_4000
+CCTV8,http://chuangye168.gnway.org:56994/s3x6g.php?id=CCTV-8H265_4000
+CCTV9,http://chuangye168.gnway.org:56994/s3x6g.php?id=CCTV-9H265_4000
+CCTV10,http://chuangye168.gnway.org:56994/s3x6g.php?id=CCTV-10H265_4000
+CCTV11,http://chuangye168.gnway.org:56994/s3x6g.php?id=CCTV-11-H265_4000
+CCTV12,http://chuangye168.gnway.org:56994/s3x6g.php?id=CCTV-12H265_4000
+CCTV13,http://chuangye168.gnway.org:56994/s3x6g.php?id=CCTV-xw_4000
+CCTV14,http://chuangye168.gnway.org:56994/s3x6g.php?id=CCTV-14H265_4000
+CCTV15,http://chuangye168.gnway.org:56994/s3x6g.php?id=CCTV-15-yyH265_4000
+CCTV16,http://chuangye168.gnway.org:56994/s3x6g.php?id=CCTV-16_4000
+CCTV17,http://chuangye168.gnway.org:56994/s3x6g.php?id=CCTV-17_4000
 
 
 CCTV1,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
@@ -63,65 +104,25 @@ CCTV17,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//i
 
 
 
-CCTV1,http://fyld.eatuo.com:9901/tsfile/live/1018_1.m3u8
-CCTV2,http://fyld.eatuo.com:9901/tsfile/live/1019_1.m3u8
-CCTV3,http://fyld.eatuo.com:9901/tsfile/live/1020_1.m3u8
-CCTV4,http://fyld.eatuo.com:9901/tsfile/live/1021_1.m3u8
-CCTV5,http://fyld.eatuo.com:9901/tsfile/live/1022_1.m3u8
-CCTV5+,http://fyld.eatuo.com:9901/tsfile/live/1023_1.m3u8
-CCTV6,http://fyld.eatuo.com:9901/tsfile/live/1024_1.m3u8
-CCTV7,http://fyld.eatuo.com:9901/tsfile/live/1025_1.m3u8
-CCTV8,http://fyld.eatuo.com:9901/tsfile/live/1026_1.m3u8
-CCTV9,http://fyld.eatuo.com:9901/tsfile/live/1027_1.m3u8
-CCTV10,http://fyld.eatuo.com:9901/tsfile/live/1028_1.m3u8
-CCTV11,http://fyld.eatuo.com:9901/tsfile/live/1029_1.m3u8
-CCTV12,http://fyld.eatuo.com:9901/tsfile/live/1030_1.m3u8
-CCTV13,http://fyld.eatuo.com:9901/tsfile/live/1031_1.m3u8
-CCTV14,http://fyld.eatuo.com:9901/tsfile/live/1032_1.m3u8
-CCTV15,http://fyld.eatuo.com:9901/tsfile/live/1033_1.m3u8
-CCTV17,http://fyld.eatuo.com:9901/tsfile/live/1034_1.m3u8
 
-
-CCTV1,https://live.v1.mk/api/ghyx.php?id=CCTV1HD_6000
-CCTV2,https://live.v1.mk/api/ghyx.php?id=CCTV2HD_6000
-CCTV3,https://live.v1.mk/api/ghyx.php?id=CCTV3HD_6000
-CCTV4,https://live.v1.mk/api/ghyx.php?id=CCTV4HD_6000
-CCTV5,https://live.v1.mk/api/ghyx.php?id=CCTV5HD_6000
-CCTV5+,https://live.v1.mk/api/ghyx.php?id=CCTV5plusHD_6000
-CCTV6,https://live.v1.mk/api/ghyx.php?id=CCTV6HD_6000
-CCTV7,https://live.v1.mk/api/ghyx.php?id=CCTV7HD_6000
-CCTV8,https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000
-CCTV9,https://live.v1.mk/api/ghyx.php?id=CCTV9HD_6000
-CCTV10,https://live.v1.mk/api/ghyx.php?id=CCTV10HD_6000
-CCTV11,https://live.v1.mk/api/ghyx.php?id=CCTV11HD_2000
-CCTV12,https://live.v1.mk/api/ghyx.php?id=CCTV12HD_6000
-CCTV13,https://live.v1.mk/api/ghyx.php?id=CCTV13HD_2000
-CCTV14,https://live.v1.mk/api/ghyx.php?id=CCTV14HD_6000
-CCTV15,https://live.v1.mk/api/ghyx.php?id=CCTV15HD_6000
-CCTV16,https://live.v1.mk/api/ghyx.php?id=CCTV16HD_6000
-CCTV17,https://live.v1.mk/api/ghyx.php?id=CCTV17HD_6000
-
-
-
-CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
-CCTV2,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
-CCTV3,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
-CCTV4,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
-CCTV5,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
-CCTV5+,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
-CCTV6,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
-CCTV7,https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
-CCTV8,https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
-CCTV9,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
-CCTV10,https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000
-CCTV11,https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000
-CCTV12,https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000
-CCTV13,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
-CCTV14,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
-CCTV15,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
-CCTV16,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
-CCTV17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
-
+CCTV1,http://121.24.98.3:8090/hls/9/index.m3u8
+CCTV2,http://121.24.98.3:8090/hls/10/index.m3u8
+CCTV3,http://121.24.98.3:8090/hls/11/index.m3u8
+CCTV4,http://121.24.98.3:8090/hls/12/index.m3u8
+CCTV5,http://121.24.98.3:8090/hls/13/index.m3u8
+CCTV5+,http://121.24.98.3:8090/hls/5/index.m3u8
+CCTV6,http://121.24.98.3:8090/hls/14/index.m3u8
+CCTV7,http://121.24.98.3:8090/hls/15/index.m3u8
+CCTV8,http://121.24.98.3:8090/hls/16/index.m3u8
+CCTV9,http://121.24.98.3:8090/hls/17/index.m3u8
+CCTV10,http://121.24.98.3:8090/hls/18/index.m3u8
+CCTV11,http://121.24.98.3:8090/hls/19/index.m3u8
+CCTV12,http://121.24.98.3:8090/hls/20/index.m3u8
+CCTV13,http://121.24.98.3:8090/hls/21/index.m3u8
+CCTV14,http://121.24.98.3:8090/hls/22/index.m3u8
+CCTV15,http://121.24.98.3:8090/hls/23/index.m3u8
+CCTV16,http://219.142.150.193:9901/tsfile/live/0016_1.m3u8
+CCTV17,http://121.24.98.3:8090/hls/24/index.m3u8
 
 
 CCTV1,http://219.142.150.193:9901/tsfile/live/0001_1.m3u8
@@ -143,19 +144,86 @@ CCTV16,http://219.142.150.193:9901/tsfile/live/0016_1.m3u8
 CCTV17,http://219.142.150.193:9901/tsfile/live/0017_1.m3u8
 CCTV5+,http://219.142.150.193:9901/tsfile/live/0018_1.m3u8
 
+CCTV1,http://chuangye168.gnway.org:56994/b84s.php?id=cctv1hd8m/8000000
+CCTV2,http://chuangye168.gnway.org:56994/b84s.php?id=cctv2hd8m/8000000
+CCTV3,http://chuangye168.gnway.org:56994/b84s.php?id=cctv38m/8000000
+CCTV4,http://chuangye168.gnway.org:56994/b84s.php?id=cctv4hd8m/8000000
+CCTV5,http://chuangye168.gnway.org:56994/b84s.php?id=cctv58m/8000000
+CCTV5+,http://chuangye168.gnway.org:56994/b84s.php?id=cctv5phd8m/8000000
+CCTV6,http://chuangye168.gnway.org:56994/b84s.php?id=cctv6hd8m/8000000
+CCTV7,http://chuangye168.gnway.org:56994/b84s.php?id=cctv7hd8m/8000000
+CCTV8,http://chuangye168.gnway.org:56994/b84s.php?id=cctv8hd8m/8000000
+CCTV9,http://chuangye168.gnway.org:56994/b84s.php?id=cctv9hd8m/8000000
+CCTV10,http://chuangye168.gnway.org:56994/b84s.php?id=cctv10hd8m/8000000
+CCTV11,http://chuangye168.gnway.org:56994/b84s.php?id=cctv11hd8m/8000000
+CCTV12,http://chuangye168.gnway.org:56994/b84s.php?id=cctv12hd8m/8000000
+CCTV13,http://chuangye168.gnway.org:56994/b84s.php?id=cctv13xwhd8m/8000000
+CCTV14,http://chuangye168.gnway.org:56994/b84s.php?id=cctvsehd8m/8000000
+CCTV15,http://chuangye168.gnway.org:56994/b84s.php?id=cctv15hd8m/8000000
+CCTV16,http://chuangye168.gnway.org:56994/b84s.php?id=cctv16hd8m/8000000
+CCTV17,http://chuangye168.gnway.org:56994/b84s.php?id=cctv17hd8m/8000000
+
+CCTV1,http://fyld.eatuo.com:9901/tsfile/live/1018_1.m3u8
+CCTV2,http://fyld.eatuo.com:9901/tsfile/live/1019_1.m3u8
+CCTV3,http://fyld.eatuo.com:9901/tsfile/live/1020_1.m3u8
+CCTV4,http://fyld.eatuo.com:9901/tsfile/live/1021_1.m3u8
+CCTV5,http://fyld.eatuo.com:9901/tsfile/live/1022_1.m3u8
+CCTV5+,http://fyld.eatuo.com:9901/tsfile/live/1023_1.m3u8
+CCTV6,http://fyld.eatuo.com:9901/tsfile/live/1024_1.m3u8
+CCTV7,http://fyld.eatuo.com:9901/tsfile/live/1025_1.m3u8
+CCTV8,http://fyld.eatuo.com:9901/tsfile/live/1026_1.m3u8
+CCTV9,http://fyld.eatuo.com:9901/tsfile/live/1027_1.m3u8
+CCTV10,http://fyld.eatuo.com:9901/tsfile/live/1028_1.m3u8
+CCTV11,http://fyld.eatuo.com:9901/tsfile/live/1029_1.m3u8
+CCTV12,http://fyld.eatuo.com:9901/tsfile/live/1030_1.m3u8
+CCTV13,http://fyld.eatuo.com:9901/tsfile/live/1031_1.m3u8
+CCTV14,http://fyld.eatuo.com:9901/tsfile/live/1032_1.m3u8
+CCTV15,http://fyld.eatuo.com:9901/tsfile/live/1033_1.m3u8
+CCTV17,http://fyld.eatuo.com:9901/tsfile/live/1034_1.m3u8
+
 
 
 😍卫视😊,#genre#
-湖南卫视,https://live.v1.mk/aishang/hunwshd
-浙江卫视,https://live.v1.mk/aishang/zjwshd
-东方卫视,https://live.v1.mk/aishang/dfwshd
-江苏卫视,https://live.v1.mk/aishang/jswshd
-北京卫视,https://live.v1.mk/aishang/bjwshd
-深圳卫视,https://live.v1.mk/aishang/szwshd
-广东卫视,https://live.v1.mk/aishang/gdwshd
-安徽卫视,https://live.v1.mk/aishang/ahwshd
-四川卫视,https://live.v1.mk/aishang/scws
-星空卫视,http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8
+广东卫视,http://chuangye168.gnway.org:56994/a78s.php?id=gdwshd
+深圳卫视,http://chuangye168.gnway.org:56994/a78s.php?id=szwshd
+湖南卫视,http://chuangye168.gnway.org:56994/a78s.php?id=hunwshd
+江苏卫视,http://chuangye168.gnway.org:56994/a78s.php?id=jswshd
+浙江卫视,http://chuangye168.gnway.org:56994/a78s.php?id=zjwshd
+安徽卫视,http://chuangye168.gnway.org:56994/a78s.php?id=ahwshd
+北京卫视,http://chuangye168.gnway.org:56994/a78s.php?id=bjwshd
+东方卫视,http://chuangye168.gnway.org:56994/a78s.php?id=dfwshd
+
+
+
+湖南卫视,http://chuangye168.gnway.org:56994/gh94.php?id=HuNanHD_6000
+浙江卫视,http://chuangye168.gnway.org:56994/gh94.php?id=ZheJiangHD_6000
+北京卫视,http://chuangye168.gnway.org:56994/gh94.php?id=BTV1HD_6000
+安徽卫视,http://chuangye168.gnway.org:56994/gh94.php?id=AnHuiHD_6000
+江苏卫视,http://chuangye168.gnway.org:56994/gh94.php?id=JiangSuHD_6000
+东方卫视,http://chuangye168.gnway.org:56994/gh94.php?id=DongFangHD_6000
+广东卫视,http://chuangye168.gnway.org:56994/gh94.php?id=GuangDongHD_6000
+深圳卫视,http://chuangye168.gnway.org:56994/gh94.php?id=ShenZhenHD_6000
+
+广东卫视,http://chuangye168.gnway.org:56994/g8dyou.php?id=guangdongHD_7000
+深圳卫视,http://chuangye168.gnway.org:56994/g8dyou.php?id=shenzhenHD_7000
+东方卫视,http://chuangye168.gnway.org:56994/g8dyou.php?id=dongfangHD_7000
+北京卫视,http://chuangye168.gnway.org:56994/g8dyou.php?id=beijingHD_7000
+湖南卫视,http://chuangye168.gnway.org:56994/g8dyou.php?id=hunanHD_7000
+江苏卫视,http://chuangye168.gnway.org:56994/g8dyou.php?id=jiangsuHD_7000
+浙江卫视,http://chuangye168.gnway.org:56994/g8dyou.php?id=zhejiangHD_7000
+安徽卫视,http://chuangye168.gnway.org:56994/g8dyou.php?id=anhuiHD_7000
+
+
+
+深圳卫视,http://chuangye168.gnway.org:56994/s3x6g.php?id=szwsH265_4000
+广东卫视,http://chuangye168.gnway.org:56994/s3x6g.php?id=gdwsH265_4000
+湖南卫视,http://chuangye168.gnway.org:56994/s3x6g.php?id=hnwsH265_4000
+东方卫视,http://chuangye168.gnway.org:56994/s3x6g.php?id=dfwsH265_4000
+安徽卫视,http://chuangye168.gnway.org:56994/s3x6g.php?id=ahwsH265_4000
+北京卫视,http://chuangye168.gnway.org:56994/s3x6g.php?id=bjwsH265_4000
+江苏卫视,http://chuangye168.gnway.org:56994/s3x6g.php?id=jswsH265_4000
+浙江卫视,http://chuangye168.gnway.org:56994/s3x6g.php?id=zjwsH265_4000
+
 
 浙江卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/zhejiangHD/__op/default/__f//index.m3u8
 湖南卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f//index.m3u8
@@ -170,6 +238,25 @@ CCTV5+,http://219.142.150.193:9901/tsfile/live/0018_1.m3u8
 
 
 
+
+湖南卫视,http://121.24.98.3:8090/hls/56/index.m3u8
+浙江卫视,http://121.24.98.3:8090/hls/79/index.m3u8
+江苏卫视,http://121.24.98.3:8090/hls/38/index.m3u8
+东方卫视,http://121.24.98.3:8090/hls/77/index.m3u8
+北京卫视,http://121.24.98.3:8090/hls/32/index.m3u8
+深圳卫视,http://121.24.98.3:8090/hls/84/index.m3u8
+安徽卫视,http://121.24.98.3:8090/hls/81/index.m3u8
+
+
+广东卫视,http://chuangye168.gnway.org:56994/b84s.php?id=gdwshd8m/8000000
+深圳卫视,http://chuangye168.gnway.org:56994/b84s.php?id=szwshd8m/8000000
+湖南卫视,http://chuangye168.gnway.org:56994/b84s.php?id=hunanwshd8m/8000000
+江苏卫视,http://chuangye168.gnway.org:56994/b84s.php?id=jswshd8m/8000000
+浙江卫视,http://chuangye168.gnway.org:56994/b84s.php?id=zjwshd8m/8000000
+东方卫视,http://chuangye168.gnway.org:56994/b84s.php?id=dfwshd8m/8000000
+北京卫视,http://chuangye168.gnway.org:56994/b84s.php?id=bjwshd8m/8000000
+安徽卫视,http://chuangye168.gnway.org:56994/b84s.php?id=ahwshd8m/8000000
+
 广东卫视,http://fyld.eatuo.com:9901/tsfile/live/1008_1.m3u8
 湖南卫视,http://fyld.eatuo.com:9901/tsfile/live/1048_1.m3u8
 浙江卫视,http://fyld.eatuo.com:9901/tsfile/live/1049_1.m3u8
@@ -180,46 +267,47 @@ CCTV5+,http://219.142.150.193:9901/tsfile/live/0018_1.m3u8
 安徽卫视,http://fyld.eatuo.com:9901/tsfile/live/1066_1.m3u8
 
 
-浙江卫视,https://live.v1.mk/api/ghyx.php?id=ZheJiangHD_6000
-北京卫视,https://live.v1.mk/api/ghyx.php?id=BTV1HD_6000
-安徽卫视,https://live.v1.mk/api/ghyx.php?id=AnHuiHD_6000
-江苏卫视,https://live.v1.mk/api/ghyx.php?id=JiangSuHD_6000
-东方卫视,https://live.v1.mk/api/ghyx.php?id=DongFangHD_6000
-湖南卫视,https://live.v1.mk/api/ghyx.php?id=HuNanHD_6000
-广东卫视,https://live.v1.mk/api/ghyx.php?id=GuangDongHD_6000
-深圳卫视,https://live.v1.mk/api/ghyx.php?id=ShenZhenHD_6000
-四川卫视,https://live.v1.mk/api/ghyx.php?id=SiChuanHD_6000
 
 
-江苏卫视,https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000
-四川卫视,https://live.v1.mk/api/bestv.php?id=scwshd/8000000
-湖南卫视,https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000
-浙江卫视,https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
-东方卫视,https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
-北京卫视,https://live.v1.mk/api/bestv.php?id=bjwshd8m/8000000
-安徽卫视,https://live.v1.mk/api/bestv.php?id=ahwshd8m/8000000
-广东卫视,https://live.v1.mk/api/bestv.php?id=gdwshd8m/8000000
-深圳卫视,https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000
+🏃地方🏠,#genre#
+广东新闻,http://chuangye168.gnway.org:56994/to5u6cht8v.php?pk=1186
+广东新闻,http://61.143.45.150:9901/tsfile/live/0019_1.m3u8
+汕头综合,http://chuangye168.gnway.org:56994/g8dyou.php?id=shantouyitaogaoqing_4500
+汕头经济生活,http://chuangye168.gnway.org:56994/g8dyou.php?id=shantouertaogaoqing_4500
+汕头文旅体育,http://chuangye168.gnway.org:56994/g8dyou.php?id=2508_4500
+潮州综合,http://chuangye168.gnway.org:56994/g8dyou.php?id=3131
+潮州民生,http://chuangye168.gnway.org:56994/g8dyou.php?id=3132
+揭阳综合,http://chuangye168.gnway.org:56994/g8dyou.php?id=jieyangyitao_1500
+揭阳生活,http://chuangye168.gnway.org:56994/g8dyou.php?id=jieyangertao_1500
+
+汕头综合,http://fxhack.f3322.org:8000/udp/239.77.1.130:5146
+汕头综合,http://fxhack.f3322.org:8000/udp/239.253.43.45:5146
+汕头经济生活,http://fxhack.f3322.org:8000/udp/239.77.1.131:5146
+汕头经济生活,http://fxhack.f3322.org:8000/udp/239.253.43.46:5146
+汕头文旅体育,http://fxhack.f3322.org:8000/udp/239.77.1.132:5146
+汕头文旅体育,http://fxhack.f3322.org:8000/udp/239.253.43.47:5146
+揭阳综合,http://fxhack.f3322.org:8000/udp/239.77.0.229:5146
+揭阳生活,http://fxhack.f3322.org:8000/udp/239.77.0.251:5146
+广东新闻,http://fxhack.f3322.org:8000/udp/239.77.0.173:5146
 
 
 
 
 ⚽体育🏀,#genre#
-广东体育,http://159.75.85.63:8765/telegram@feiyangdigital-gdty.m3u8
-广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
+广东体育,http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
+广东体育,http://chuangye168.gnway.org:56994/g8dyou.php?id=1413
 广东体育,http://xjayrf.eatuo.com:9901/tsfile/live/1014_1.m3u8
+广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
+广东体育,http://fxhack.f3322.org:8000/udp/239.77.0.112:5146
+广东体育,http://fxhack.f3322.org:8000/udp/239.77.0.168:5146
 
+五星体育,http://lu1.cc/itv/php/bst5g.php?id=wxty
+五星体育,http://cfss.cc/ds/bst.php?id=Cf-54
+五星体育,http://chuangye168.gnway.org:56994/b84s.php?id=wxtyhd8m/8000000
 
-五星体育1,http://lu1.cc/itv/php/bst5g.php?id=wxty
-五星体育1,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
-五星体育1,http://cfss.cc/ds/bst.php?id=Cf-54
-五星体育2,http://tvmvip110.club/bs1.php?id=40
-
-
-劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
-劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
-
-智林体育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+劲爆体育,http://chuangye168.gnway.org:56994/gh94.php?id=JinBaoTiYuHD_6000
+劲爆体育,http://chuangye168.gnway.org:56994/s3x6g.php?id=lqhxjcHDH265_4000
+劲爆体育,http://chuangye168.gnway.org:56994/b84s.php?id=jbtyhd8m/8000000
 
 CCTV5,http://hms364nc1972679593.live.aikan.miguvideo.com/wh7f454c46tw3108930238_-1163429574/wd_r2/cctv/cctv5hdnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.138.167.9&timestamp=20230206044709&ContentId=265667565&timezone=UTC&mtv_session=1729555ac478ff7575d42d2a087c363c&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6b2e528e119a071d44a14eafd6da510a
 CCTV5,http://hms464nc1972679603.live.aikan.miguvideo.com/wh7f454c46tw1822234231_348127062/wd_r2/cctv/cctv5hdnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.234.195&timestamp=20230213055028&ContentId=265667565&timezone=UTC&mtv_session=81bcd7f0f298bdda3e816ecdbed1cbff&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0a2ea17c3d8f5262f3ae0a447e3e69cd
@@ -227,33 +315,37 @@ CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122639
 CCTV5+,http://hms124nc1972679569.live.aikan.miguvideo.com/wh7f454c46tw3270085095_-1329995043/wd_r2/cctv/cctv5plusnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.138.167.9&timestamp=20230206044950&ContentId=265106763&timezone=UTC&mtv_session=ca4f319251b40f2bc3d45c45b07a7515&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d48fc0334678ba6b5611f016bab9983b
 CCTV16,http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
 
-咪咕体育-4K,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
-咪咕体育-4K,http://117.136.156.71:80/000000001000/3000000010000005180/index.m3u8
-咪咕体育-4K,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
 
 
 🏠港台🚊,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8$广东
-翡翠台,http://nas.jdshipin.com:8801/gdfc.php$广东
-翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8$广东
-翡翠台,http://r.jdshipin.com/qClQf$广东
-翡翠台,http://r.jdshipin.com/62WM7$广东
-翡翠台,http://nas.jdshipin.com:8801/gdfc.php$广东
-翡翠台,http://23.237.10.66:16106
-翡翠台,http://radius.8866.org:800/hls/80/index.m3u8
-翡翠台,http://shazui.8866.org:800/hls/80/index.m3u8
+凤凰中文,http://chuangye168.gnway.org:56994/s3x6g.php?id=test1_4000
+凤凰资讯,http://chuangye168.gnway.org:56994/s3x6g.php?id=test2_4000
 
-明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8$广东
+翡翠台,http://chuangye168.gnway.org:56994/g8dyou.php?id=1350_4500
+翡翠台,https://pull-l3-cny.douyincdn.com/live/stream-112175132j3202301142.m3u8
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://23.237.10.66:16106$翻
+翡翠台,http://radius.8866.org:800/hls/80/index.m3u8$备
+翡翠台,http://shazui.8866.org:800/hls/80/index.m3u8$备
+
+明珠台,http://chuangye168.gnway.org:56994/g8dyou.php?id=1351_4500
+明珠台,https://pull-l3-cny.douyincdn.com/live/stream-19882782022122523482.m3u8
+
+
+无线新闻,https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212212.m3u8
+无线新闻台,http://iptv.cooltv.top/tv/tvb.php?id=0&hq
+
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+
 有线新闻,http://107.151.203.111:2209/135/hk.php?id=cable37h
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
-有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist.m3u8
 有线新闻,http://cm61-10-2-140.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist.m3u8
 有线新闻,http://61.10.2.152:80/live_freedirect/freehd209_h.live/chunklist.m3u8
 有线新闻,http://61.10.2.134:80/live_freedirect/freehd209_h.live/chunklist.m3u8
@@ -261,9 +353,23 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 有线新闻,http://61.10.2.148:80/live_freedirect/freehd209_h.live/chunklist.m3u8
 有线新闻,https://api.leonardpark.dev/live/icable/109
 
+香港国际财经台,http://61.10.2.140/live_freedirect/opentvhd002_h.live/playlist.m3u8
+有线财经资讯台,http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
+耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+
+
 中天综合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.flv
 中天综合,http://23.237.10.66:16372
+中视新闻,http://2023.stream-link.org/playlist/ctv_news
+民视,http://2023.stream-link.org/playlist/ttv
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 台视,http://23.237.10.66:16344
+台视新闻台,http://2023.stream-link.org/playlist/ftv_news
+台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+
+
 
 
 爱尔达娱乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
@@ -279,12 +385,8 @@ TRACEURBAN,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3
 MEZZOLIVEHD,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
 
 
-台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
@@ -293,23 +395,30 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CGTN,https://live.v1.mk/aishang/cgtnhd
 CGTN,http://live.cgtn.com/500/prog_index.m3u8
-News,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+新华社CNC,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+NEWSMAX,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+SkyNews,https://siloh.pluto.tv/lilo/production/SkyNews/master_2.m3u8
+SkyNews,https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
-ASIA NEWS,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CHANNELNEWSASIA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+GlobalNews,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+GlobalNews,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
+GlobalNews,https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
+GlobalNews,https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/master.m3u8
+半岛新闻AJE,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 日本全天新聞,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 朝日電視台,http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 俄罗斯TV BRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-aljazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 巴西SBT,http://208.115.225.174:14173/
 巴西SBT,http://208.115.225.174:14170/
 巴西SBT,http://208.115.225.174:14176/
 
 
 🍺轮播🍟,#genre#
-
-
+CCTV6,http://chuangye168.gnway.org:56994/c6ct6v6.php
 猫和老鼠1,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
 猫和老鼠1,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key
 猫和老鼠1,http://ctyuncdnct.inter.iqiyi.com/tslive/l1/c52_lb_83_600_t10/ntmFSJb2E3RHHF99rpcz_sMHkSFtrjpG6HlUUV1FvPg5gk4TDgX0ohoACsYft39MojAjjDMwV7gH05Fk-VRE68qR8U1QOlTUUUymboXjaPkbgcLs76qnXJfO8Qkl4NYXXJAX-rsyJ33XAvVbEoBbSbjHbYHrK5diugvk1ggJMjfzdbP-D5StFx3X6-6h96p6jeVdx_5Xf9AmeF60QF3IaPpQsq8vyYlAfAdpuzzGayJr7645C4rBs7L19DFXCg7oxyQzNsQVNezL1k4rnu9-_w/1111a9b3020c0810fef97c5bf0afa8964/c52_lb_83_600_t10.m3u8?key=0fd320ecf4dd91c42dd2d3d14f8282b9f&dis_t=1676256065&z=ctyuncdn_ct&pv=0.2
@@ -318,15 +427,25 @@ aljazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 蜡笔小新,http://gdctyuncdnct.inter.iqiyi.com/tslive/l1/c51_lb_120_600_t10/ndgW6w_WHAPAqVKv4sX8HNQTYikd-eU5mMQZ6fCzokfCHzIftuowslgxkMMZScBjrbSENf0AlNTfnCcjfUAg2tLLkxOz4e52b4ft8MQeYdw9F1k5nDhNx0egDDNhHQmKRrxeIxNkdLiRku7GTzpC20lEPFGJX50UHrkZAjbfz1wiCGepROo53SH-e5QHV9IlSaUv0JUOZznVIhuwkVWCasy4mYtmxoqhIWq4H9YJzzt8YzNNeg4GqvRnLi8Mu7Io8CJ5HiFR9myQs0n3wLZ4Sw/146589b5f2318faae1da104239eb1640a/c51_lb_120_600_t10.m3u8?key=0fd320ecf4dd91c42587358a046108dcb&dis_t=1676272053&z=gdctyun_ct&pv=0.2
 蜡笔小新,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_120_600_t10/c51_lb_120_600_t10.m3u8?key
 
-
-周星驰粤语,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
 周星驰国语,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353881242
+周星驰粤语,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
+周星驰不间断,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.xs
 李连杰1,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
+王晶导演,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
+古装武侠,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
 
+周星驰粤语,http://chuangye168.gnway.org:56994/h5uy0a.php?id=11336587
+周星驰不间断,http://chuangye168.gnway.org:56994/h5uy0a.php?id=11342412
+李连杰,http://chuangye168.gnway.org:56994/h5uy0a.php?id=11342390
+王晶导演,http://chuangye168.gnway.org:56994/h5uy0a.php?id=11602058
+金庸武侠,http://chuangye168.gnway.org:56994/h5uy0a.php?id=11342435
+
+
+
+
+4K超高清电影,http://chuangye168.gnway.org:56994/s3x6g.php?id=emdy4k_8000
 4k超高清电影,http://159.75.85.63:5681/sxg.php
 欧美电影,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-豆瓣高分,http://akm-tct.douyucdn.cn/live/8770422rP205D3AU.flv?uuid=
-漫威电影,http://akm-tct.douyucdn.cn/live/6140589rOHyw7C76.flv?uuid=
 
 
 儿歌轮播,http://huaweicdnnewct.inter.iqiyi.com/tslive/l1/c57_lb_242_600_t10/oFyEExpIprfMsS9lffc69ze0ngeCUqPLJMsJTGilb_l5g9I-7beRclNIWjC2EipQf_Hyz4JHqxNjNpCfEjRjR-Gqi1m94IFLP161_jUgGzNM27UNiIz3C1VTJ11gy7w9O_OEtVWTBwD5VtzrVnirKIWVusnM2dt8vhxzqNMEPUXZuDZzaYk09rEaL0fUqbJGIhvEeQM7WuiIigByPxYhswDdna8uIB0MCv7RRuDvZ8HaA0RtBMXz7YFD_zyeblxKFgqODqyHGS66SaSlrk0Jng/17f5d5f3cca18548896028f06796a2345/c57_lb_242_600_t10.m3u8?key=0fd320ecf4dd91c42a897cb07c34dd1ff&dis_t=1676271049&z=huaweicdnnew_ct&pv=0.2
@@ -341,11 +460,22 @@ aljazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 华语轮播,http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/l1/c51_lb_114_1080P_t10/5oXHNY85CMV-awVVNp__gkv8fLEetKTczMrRmWtO7gLNNKzP3X0n8BK-unM-w6_TrQWRPfRx37EGf0fT9gW80EccFBHWp73lo8SXxA_bZu2BxqdZ49JSjVdh_osnBzhipawG-v0ngis-SglhpXn9pCGaDfiarM_ajS7Dr-o3gPWCfMl1JUYxMhXXnqfrYTeSFWSz9N2i4j7pQaWAxyIXN8Pz_o7isxU_4UqBrhwVJbahiZkmhRd1Fbg2AP_uyFugTRNvtL38QaCn9u2iw91ZRQ/17d4e3ddd1bf012dd312d04a3dd372c52/c51_lb_114_1080P_t10.m3u8?key=0fd320ecf4dd91c42cab5f837938bf456&dis_t=1675659864&z=gdctyun_ct&pv=0.2
 豆瓣轮播,http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/l1/c51_lb_112_1080P_t10/ejaKi6hgecoS8qnbMRLc3GLef2sC3JxWk5pdTCNl56ajxvaCY56HnqeWtoUxTuVn0hSH03dBgj6yqRlnZckjUCid2gElndQECT2mvyhdQIENCNHdDQTVR2SWSIObw5Ux-ES-sfEYNsXrT2gPRGNZLvH_gPveccodE7KdzPoBw08cYq1qpFxIk9V3J1s_UR1Q0H3dj-kUL_4_o096ygfhtu4Pxbda4vRBVEwov2ioFZ9tPUTqc1gjG2y7CMi-RsQgCCp6eF6GTwo-8WkFBgQvFw/18e977f10da6c14a23bf8eca403e5a862/c51_lb_112_1080P_t10.m3u8?key=0fd320ecf4dd91c42153d1c126098ba94&dis_t=1675659335&z=gdctyun_ct&pv=0.2
 豆瓣轮播,http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/l1/c51_lb_112_1080P_t10/ejaKi6hgecoS8qnbMRLc3GLef2sC3JxWk5pdTCNl56ajxvaCY56HnqeWtoUxTuVn0hSH03dBgj6yqRlnZckjUCid2gElndQECT2mvyhdQIENCNHdDQTVR2SWSIObw5Ux-ES-sfEYNsXrT2gPRGNZLvH_gPveccodE7KdzPoBw08qVr9ZBIwxyw4e5DijYxr5vxzm-NwCI8ospRS0v9_-344Lz-Hdmc9HyVAdkSe6QL0uXFihb5OExQP4dC39iwTaWD9zG6m8KHPTTtIp4luZFA/1194f4fff3d7c7da499c9680f7198a73d/c51_lb_112_1080P_t10.m3u8?key=0fd320ecf4dd91c42378520d3fba25d2c&dis_t=1675659482&z=gdctyun_ct&pv=0.2
+豆瓣高分,http://akm-tct.douyucdn.cn/live/8770422rP205D3AU.flv?uuid=
 
-bestv华语影院,https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
-bestv星光影院,https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
-bestv全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
-CHC高清电影,https://live.v1.mk/api/ghyx.php?id=CHCHD2_6000
+华语影院,http://chuangye168.gnway.org:56994/b84s.php?id=hyyy8m/8000000
+星光影院,http://chuangye168.gnway.org:56994/b84s.php?id=xgyy8m/8000000
+全球大片,http://chuangye168.gnway.org:56994/b84s.php?id=qqdp8m/8000000
+
+CHC动作电影,http://chuangye168.gnway.org:56994/a78s.php?id=chcdzdy
+CHC高清电影,http://chuangye168.gnway.org:56994/a78s.php?id=chcgqdy
+CHC家庭影院,http://chuangye168.gnway.org:56994/a78s.php?id=chcjtyy
+CHC高清电影,http://chuangye168.gnway.org:56994/gh94.php?id=CHCHD2_6000
+CHC动作电影,http://chuangye168.gnway.org:56994/s3x6g.php?id=wqCHCdzdyH265_4000
+CHC高清电影,http://chuangye168.gnway.org:56994/s3x6g.php?id=lnwsCHC-HDH265_4000
+CHC家庭影院,http://chuangye168.gnway.org:56994/s3x6g.php?id=jbtygqCHCjtyyH265_4000
+CHC高清电影,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8
+CHC动作电影,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
+CHC家庭影院,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
 CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
@@ -354,26 +484,23 @@ CHC家庭影院,http://hms204nc1972679577.live.aikan.miguvideo.com/wh7f454c46tw5
 广场舞,http://fyld.eatuo.com:9901/tsfile/live/1007_1.m3u8
 糖豆广场舞,http://verycloudcdnct.inter.iqiyi.com/tslive/l1/c56_lb_235_600_t10/l9Ty8rZ24bXreY1KWkhyV14k85c2wptJnP8Em1MXqwLI1ClbDK9Q8ccbJgsegdCDzYvKyztI6i9Msb8n4iKoHOVHFS4-ii1vzobm3vFVgTisk9zMc81DQqQY-_D-RRbdN8IQG0spZ76Vl0G-GApI_ljNncJUqZ0gA6maIamjKnoB1EjRkf1j8Md30q14DNt26HxnVrHz-La4qA2sbwIC79ITGNJNZSguqEFTx7gZXvn5IjAhtJTIUi0ctrDqYvXZMDt_JpwnMtJfwIKpfxKbRg/1ff25af9012b25e4f56439d8e8d201b82/c56_lb_235_600_t10.m3u8?key=0fd320ecf4dd91c4267cf476d812e6082&dis_t=1676271462&z=verycloud_ct&pv=0.2
 糖豆广场舞,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_235_600_t10/c56_lb_235_600_t10.m3u8?key
-古装武侠,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
-王晶导演,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
-动作大片,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
-粤语综艺,http://akm-tct.douyucdn.cn/live/7919720rVcz36gZQ.flv?uuid=
+
 
 
 🐶4K🐬,#genre#
 CCTV4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 CCTV4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
-CCTV4K,http://159.75.85.63:8765/telegram@feiyangdigital-cctv4k.m3u8
 CCTV4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//1/v15M/index.m3u8
 CCTV4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
+CCTV-4K,http://chuangye168.gnway.org:56994/s3x6g.php?id=ys4Kcq_2000
 
-CCTV16-4K,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
-CCTV16-4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
-CCTV16-4K,http://159.75.85.63:8765/telegram@feiyangdigital-cctv16-4k.m3u8
 CCTV16-4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
 CCTV16-4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
+CCTV16-4K,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
+CCTV16-4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
+CCTV-16 4K,http://chuangye168.gnway.org:56994/s3x6g.php?id=CCTV-16-4K_8000
 
-广东综艺4K,http://159.75.85.63:8765/telegram@feiyangdigital-gdzy4k.m3u8
+欢笑剧场4K,http://chuangye168.gnway.org:56994/s3x6g.php?id=hxjc-4k_8000
 欢笑剧场4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
@@ -414,235 +541,8 @@ MUZZIK_ZZ4000_4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 四川黄龙五彩池,https://gctxyc.liveplay.myqcloud.com/gc/hlwcc_1/index.m3u8?contentid=2820180516001
 
 
-🌞电信组播,#genre#
-CCTV-1高清,http://fxhack.f3322.org:8000/udp/239.77.1.17:5146
-CCTV-1高清,http://fxhack.f3322.org:8000/udp/239.77.1.144:5146
-CCTV-1高清,http://fxhack.f3322.org:8000/udp/239.77.0.86:5146
-CCTV-1超清,http://fxhack.f3322.org:8000/udp/239.77.0.129:5146
-CCTV-2高清,http://fxhack.f3322.org:8000/udp/239.77.1.158:5146
-CCTV-2高清,http://fxhack.f3322.org:8000/udp/239.253.43.17:5146
-CCTV-2高清,http://fxhack.f3322.org:8000/udp/239.77.0.137:5146
-CCTV-3高清,http://fxhack.f3322.org:8000/udp/239.77.0.169:5146
-CCTV-3超清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.0.175:5146
-CCTV-4高清,http://fxhack.f3322.org:8000/udp/239.77.1.163:5146
-CCTV-4高清,http://fxhack.f3322.org:8000/udp/239.77.1.166:5146
-CCTV-4高清,http://fxhack.f3322.org:8000/udp/239.77.0.78:5146
-CCTV-5高清,http://fxhack.f3322.org:8000/udp/239.77.0.170:5146
-CCTV-5超清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.0.177:5146
-CCTV-5+高清,http://fxhack.f3322.org:8000/udp/239.77.0.87:5146
-CCTV-5+高清,http://fxhack.f3322.org:8000/udp/239.77.1.31:5146
-CCTV-6高清,http://fxhack.f3322.org:8000/udp/239.77.0.171:5146
-CCTV-6超清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.0.178:5146
-CCTV-7高清,http://fxhack.f3322.org:8000/udp/239.77.1.159:5146
-CCTV-7高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.167:5146
-CCTV-7高清,http://fxhack.f3322.org:8000/udp/239.77.0.138:5146
-CCTV-8高清,http://fxhack.f3322.org:8000/udp/239.77.0.172:5146
-CCTV-8超清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.0.181:5146
-CCTV-9高清,http://fxhack.f3322.org:8000/udp/239.77.1.160:5146
-CCTV-9高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.168:5146
-CCTV-9高清,http://fxhack.f3322.org:8000/udp/239.77.0.135:5146
-CCTV-10高清,http://fxhack.f3322.org:8000/udp/239.77.1.113:5146
-CCTV-10高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.169:5146
-CCTV-10高清,http://fxhack.f3322.org:8000/udp/239.77.0.134:5146
-CCTV-11高清,http://fxhack.f3322.org:8000/udp/239.77.1.238:5146
-CCTV-12高清,http://fxhack.f3322.org:8000/udp/239.77.1.109:5146
-CCTV-12高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.170:5146
-CCTV-12高清,http://fxhack.f3322.org:8000/udp/239.77.0.136:5146
-CCTV-13高清,http://fxhack.f3322.org:8000/udp/239.77.0.188:5146
-CCTV-13高清,http://fxhack.f3322.org:8000/udp/239.253.43.196:5146
-CCTV-14高清,http://fxhack.f3322.org:8000/udp/239.77.1.161:5146
-CCTV-14高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.171:5146
-CCTV-14高清,http://fxhack.f3322.org:8000/udp/239.77.0.133:5146
-CCTV-15高清,http://fxhack.f3322.org:8000/udp/239.77.1.239:5146
-CCTV-16高清,http://fxhack.f3322.org:8000/udp/239.77.1.76:5146
-CCTV-17高清,http://fxhack.f3322.org:8000/udp/239.77.1.121:5146
-CCTV-17高清,http://fxhack.f3322.org:8000/udp/239.77.0.198:5146
-CCTV16-4K,http://fxhack.f3322.org:8000/udp/239.77.1.98:5146
-CGTN,http://fxhack.f3322.org:8000/udp/239.77.0.45:5146
-CGTN,http://fxhack.f3322.org:8000/udp/239.77.1.27:5146
-CETV1,http://fxhack.f3322.org:8000/udp/239.77.0.200:5146
-CHC电影,http://fxhack.f3322.org:8000/udp/239.77.0.27:5146
-汕头综合,http://fxhack.f3322.org:8000/udp/239.253.43.45:5146
-汕头综合,http://fxhack.f3322.org:8000/udp/239.77.1.130:5146
-汕头经济生活,http://fxhack.f3322.org:8000/udp/239.253.43.46:5146
-汕头经济生活,http://fxhack.f3322.org:8000/udp/239.77.1.131:5146
-汕头文旅体育,http://fxhack.f3322.org:8000/udp/239.253.43.47:5146
-汕头文旅体育,http://fxhack.f3322.org:8000/udp/239.77.1.132:5146
-揭阳综合高清,http://fxhack.f3322.org:8000/udp/239.77.0.229:5146
-揭阳生活高清,http://fxhack.f3322.org:8000/udp/239.77.0.251:5146
-广东珠江高清,http://fxhack.f3322.org:8000/udp/239.77.0.1:5146
-广东珠江超清,http://fxhack.f3322.org:8000/udp/239.77.0.114:5146
-广东新闻高清,http://fxhack.f3322.org:8000/udp/239.77.0.173:5146
-广东公共高清,http://fxhack.f3322.org:8000/udp/239.77.0.225:5146
-广东影视高清,http://fxhack.f3322.org:8000/udp/239.77.0.217:5146
-广东少儿高清,http://fxhack.f3322.org:8000/udp/239.77.0.250:5146
-广东体育高清,http://fxhack.f3322.org:8000/udp/239.77.0.112:5146
-广东体育超清,http://fxhack.f3322.org:8000/udp/239.77.0.168:5146
-广东体育576,http://fxhack.f3322.org:8000/udp/239.77.0.6:5146
-广东体育(深圳),http://fxhack.f3322.org:8000/udp/239.77.1.97:5146
-深圳体育,http://fxhack.f3322.org:8000/udp/239.77.1.128:5146
-广东影视,http://fxhack.f3322.org:8000/udp/239.77.0.217:5146
-广东移动,http://fxhack.f3322.org:8000/udp/239.77.0.20:5146
-广东少儿,http://fxhack.f3322.org:8000/udp/239.77.0.250:5146
-大湾区卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.215:5146
-经济科教,http://fxhack.f3322.org:8000/udp/239.77.0.85:5146
-嘉佳卡通,http://fxhack.f3322.org:8000/udp/239.77.0.179:5146
-广东卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.19:5146
-广东卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.152:5146
-广东卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.84:5146
-广东卫视超清,http://fxhack.f3322.org:8000/udp/239.77.0.166:5146
-深圳卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.3:5146
-深圳卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.148:5146
-深圳卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.92:5146
-深圳卫视超清,http://fxhack.f3322.org:8000/udp/239.77.0.130:5146
-湖南卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.5:5146
-湖南卫视高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.129:5146
-湖南卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.88:5146
-湖南卫视超清,http://fxhack.f3322.org:8000/udp/239.77.0.127:5146
-浙江卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.33:5146
-浙江卫视高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.150:5146
-浙江卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.89:5146
-浙江卫视超清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.0.125:5146
-江苏卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.18:5146
-江苏卫视高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.149:5146
-江苏卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.90:5146
-江苏卫视超清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.0.126:5146
-东方卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.218:5146
-东方卫视高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.156:5146
-东方卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.98:5146
-安徽卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.92:5146
-安徽卫视高清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.1.157:5146
-安徽卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.183:5146
-北京卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.4:5146
-北京卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.151:5146
-北京卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.91:5146
-辽宁卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.103:5146
-辽宁卫视 高清,http://fxhack.f3322.org:8000/udp/239.77.0.123:5146
-辽宁卫视超清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.0.161:5146
-四川卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.215:5146
-四川卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.159:5146
-四川卫视超清 (CAVS),http://fxhack.f3322.org:8000/udp/239.77.0.163:5146
-东南卫视高清,http://fxhack.f3322.org:8000/udp/239.77.1.104:5146
-东南卫视高清,http://fxhack.f3322.org:8000/udp/239.77.0.146:5146
-天津卫视,http://fxhack.f3322.org:8000/udp/239.77.0.97:5146
-山东卫视,http://fxhack.f3322.org:8000/udp/239.77.0.94:5146
 
-CCTV-1高清,http://ly01.eu.org:10000/udp/239.77.1.17:5146
-CCTV-1高清,http://ly01.eu.org:10000/udp/239.77.1.144:5146
-CCTV-1高清,http://ly01.eu.org:10000/udp/239.77.0.86:5146
-CCTV-1超清,http://ly01.eu.org:10000/udp/239.77.0.129:5146
-CCTV-2高清,http://ly01.eu.org:10000/udp/239.77.1.158:5146
-CCTV-2高清,http://ly01.eu.org:10000/udp/239.253.43.17:5146
-CCTV-2高清,http://ly01.eu.org:10000/udp/239.77.0.137:5146
-CCTV-3高清,http://ly01.eu.org:10000/udp/239.77.0.169:5146
-CCTV-3超清 (CAVS),http://ly01.eu.org:10000/udp/239.77.0.175:5146
-CCTV-4高清,http://ly01.eu.org:10000/udp/239.77.1.163:5146
-CCTV-4高清,http://ly01.eu.org:10000/udp/239.77.1.166:5146
-CCTV-4高清,http://ly01.eu.org:10000/udp/239.77.0.78:5146
-CCTV-5高清,http://ly01.eu.org:10000/udp/239.77.0.170:5146
-CCTV-5超清 (CAVS),http://ly01.eu.org:10000/udp/239.77.0.177:5146
-CCTV-5+高清,http://ly01.eu.org:10000/udp/239.77.0.87:5146
-CCTV-5+高清,http://ly01.eu.org:10000/udp/239.77.1.31:5146
-CCTV-6高清,http://ly01.eu.org:10000/udp/239.77.0.171:5146
-CCTV-6超清 (CAVS),http://ly01.eu.org:10000/udp/239.77.0.178:5146
-CCTV-7高清,http://ly01.eu.org:10000/udp/239.77.1.159:5146
-CCTV-7高清 (CAVS),http://ly01.eu.org:10000/udp/239.77.1.167:5146
-CCTV-7高清,http://ly01.eu.org:10000/udp/239.77.0.138:5146
-CCTV-8高清,http://ly01.eu.org:10000/udp/239.77.0.172:5146
-CCTV-8超清 (CAVS),http://ly01.eu.org:10000/udp/239.77.0.181:5146
-CCTV-9高清,http://ly01.eu.org:10000/udp/239.77.1.160:5146
-CCTV-9高清 (CAVS),http://ly01.eu.org:10000/udp/239.77.1.168:5146
-CCTV-9高清,http://ly01.eu.org:10000/udp/239.77.0.135:5146
-CCTV-10高清,http://ly01.eu.org:10000/udp/239.77.1.113:5146
-CCTV-10高清 (CAVS),http://ly01.eu.org:10000/udp/239.77.1.169:5146
-CCTV-10高清,http://ly01.eu.org:10000/udp/239.77.0.134:5146
-CCTV-11高清,http://ly01.eu.org:10000/udp/239.77.1.238:5146
-CCTV-12高清,http://ly01.eu.org:10000/udp/239.77.1.109:5146
-CCTV-12高清 (CAVS),http://ly01.eu.org:10000/udp/239.77.1.170:5146
-CCTV-12高清,http://ly01.eu.org:10000/udp/239.77.0.136:5146
-CCTV-13高清,http://ly01.eu.org:10000/udp/239.77.0.188:5146
-CCTV-13高清,http://ly01.eu.org:10000/udp/239.253.43.196:5146
-CCTV-14高清,http://ly01.eu.org:10000/udp/239.77.1.161:5146
-CCTV-14高清 (CAVS),http://ly01.eu.org:10000/udp/239.77.1.171:5146
-CCTV-14高清,http://ly01.eu.org:10000/udp/239.77.0.133:5146
-CCTV-15高清,http://ly01.eu.org:10000/udp/239.77.1.239:5146
-CCTV-16高清,http://ly01.eu.org:10000/udp/239.77.1.76:5146
-CCTV-17高清,http://ly01.eu.org:10000/udp/239.77.1.121:5146
-CCTV-17高清,http://ly01.eu.org:10000/udp/239.77.0.198:5146
-CCTV16-4K,http://ly01.eu.org:10000/udp/239.77.1.98:5146
-CGTN,http://ly01.eu.org:10000/udp/239.77.0.45:5146
-CGTN,http://ly01.eu.org:10000/udp/239.77.1.27:5146
-CETV1,http://ly01.eu.org:10000/udp/239.77.0.200:5146
-CHC电影,http://ly01.eu.org:10000/udp/239.77.0.27:5146
-汕头综合,http://ly01.eu.org:10000/udp/239.253.43.45:5146
-汕头综合,http://ly01.eu.org:10000/udp/239.77.1.130:5146
-汕头经济生活,http://ly01.eu.org:10000/udp/239.253.43.46:5146
-汕头经济生活,http://ly01.eu.org:10000/udp/239.77.1.131:5146
-汕头文旅体育,http://ly01.eu.org:10000/udp/239.253.43.47:5146
-汕头文旅体育,http://ly01.eu.org:10000/udp/239.77.1.132:5146
-揭阳综合高清,http://ly01.eu.org:10000/udp/239.77.0.229:5146
-揭阳生活高清,http://ly01.eu.org:10000/udp/239.77.0.251:5146
-广东珠江高清,http://ly01.eu.org:10000/udp/239.77.0.1:5146
-广东珠江超清,http://ly01.eu.org:10000/udp/239.77.0.114:5146
-广东新闻高清,http://ly01.eu.org:10000/udp/239.77.0.173:5146
-广东公共高清,http://ly01.eu.org:10000/udp/239.77.0.225:5146
-广东影视高清,http://ly01.eu.org:10000/udp/239.77.0.217:5146
-广东少儿高清,http://ly01.eu.org:10000/udp/239.77.0.250:5146
-广东体育高清,http://ly01.eu.org:10000/udp/239.77.0.112:5146
-广东体育超清,http://ly01.eu.org:10000/udp/239.77.0.168:5146
-广东体育576,http://ly01.eu.org:10000/udp/239.77.0.6:5146
-广东体育(深圳),http://ly01.eu.org:10000/udp/239.77.1.97:5146
-深圳体育,http://ly01.eu.org:10000/udp/239.77.1.128:5146
-广东影视,http://ly01.eu.org:10000/udp/239.77.0.217:5146
-广东移动,http://ly01.eu.org:10000/udp/239.77.0.20:5146
-广东少儿,http://ly01.eu.org:10000/udp/239.77.0.250:5146
-大湾区卫视高清,http://ly01.eu.org:10000/udp/239.77.0.215:5146
-经济科教,http://ly01.eu.org:10000/udp/239.77.0.85:5146
-嘉佳卡通,http://ly01.eu.org:10000/udp/239.77.0.179:5146
-广东卫视高清,http://ly01.eu.org:10000/udp/239.77.1.19:5146
-广东卫视高清,http://ly01.eu.org:10000/udp/239.77.1.152:5146
-广东卫视高清,http://ly01.eu.org:10000/udp/239.77.0.84:5146
-广东卫视超清,http://ly01.eu.org:10000/udp/239.77.0.166:5146
-深圳卫视高清,http://ly01.eu.org:10000/udp/239.77.1.3:5146
-深圳卫视高清,http://ly01.eu.org:10000/udp/239.77.1.148:5146
-深圳卫视高清,http://ly01.eu.org:10000/udp/239.77.0.92:5146
-深圳卫视超清,http://ly01.eu.org:10000/udp/239.77.0.130:5146
-湖南卫视高清,http://ly01.eu.org:10000/udp/239.77.1.5:5146
-湖南卫视高清 (CAVS),http://ly01.eu.org:10000/udp/239.77.1.129:5146
-湖南卫视高清,http://ly01.eu.org:10000/udp/239.77.0.88:5146
-湖南卫视超清,http://ly01.eu.org:10000/udp/239.77.0.127:5146
-浙江卫视高清,http://ly01.eu.org:10000/udp/239.77.1.33:5146
-浙江卫视高清 (CAVS),http://ly01.eu.org:10000/udp/239.77.1.150:5146
-浙江卫视高清,http://ly01.eu.org:10000/udp/239.77.0.89:5146
-浙江卫视超清 (CAVS),http://ly01.eu.org:10000/udp/239.77.0.125:5146
-江苏卫视高清,http://ly01.eu.org:10000/udp/239.77.1.18:5146
-江苏卫视高清 (CAVS),http://ly01.eu.org:10000/udp/239.77.1.149:5146
-江苏卫视高清,http://ly01.eu.org:10000/udp/239.77.0.90:5146
-江苏卫视超清 (CAVS),http://ly01.eu.org:10000/udp/239.77.0.126:5146
-东方卫视高清,http://ly01.eu.org:10000/udp/239.77.1.218:5146
-东方卫视高清 (CAVS),http://ly01.eu.org:10000/udp/239.77.1.156:5146
-东方卫视高清,http://ly01.eu.org:10000/udp/239.77.0.98:5146
-安徽卫视高清,http://ly01.eu.org:10000/udp/239.77.1.92:5146
-安徽卫视高清 (CAVS),http://ly01.eu.org:10000/udp/239.77.1.157:5146
-安徽卫视高清,http://ly01.eu.org:10000/udp/239.77.0.183:5146
-北京卫视高清,http://ly01.eu.org:10000/udp/239.77.1.4:5146
-北京卫视高清,http://ly01.eu.org:10000/udp/239.77.1.151:5146
-北京卫视高清,http://ly01.eu.org:10000/udp/239.77.0.91:5146
-辽宁卫视高清,http://ly01.eu.org:10000/udp/239.77.1.103:5146
-辽宁卫视 高清,http://ly01.eu.org:10000/udp/239.77.0.123:5146
-辽宁卫视超清 (CAVS),http://ly01.eu.org:10000/udp/239.77.0.161:5146
-四川卫视高清,http://ly01.eu.org:10000/udp/239.77.1.215:5146
-四川卫视高清,http://ly01.eu.org:10000/udp/239.77.0.159:5146
-四川卫视超清 (CAVS),http://ly01.eu.org:10000/udp/239.77.0.163:5146
-东南卫视高清,http://ly01.eu.org:10000/udp/239.77.1.104:5146
-东南卫视高清,http://ly01.eu.org:10000/udp/239.77.0.146:5146
-天津卫视,http://ly01.eu.org:10000/udp/239.77.0.97:5146
-山东卫视,http://ly01.eu.org:10000/udp/239.77.0.94:5146
-
-
-
-
-🌜电信内网,#genre#
+🌜电信内组,#genre#
 汕头综合,rtp://239.77.1.130:5146
 汕头综合,rtp://239.253.43.45:5146
 汕头经济生活,rtp://239.77.1.131:5146
@@ -991,12 +891,3 @@ NewTV金牌综艺,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw261
 无标动画5,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2444135891_2133795787/ott.mobaibox.com/PLTV/3/224/3221228536/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 咪咕全民热练HD,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2441972983_964717723/ott.mobaibox.com/PLTV/3/224/3221228427/index.m3u8?icpid=3&RTS=1674369672&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 
-
-
-🌸备用🌿,#genre#
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-湖南卫视,http://hms124nc1972679568.live.aikan.miguvideo.com/wh7f454c46tw3833875086_1285108822/wd-hunanhd-2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=171.221.43.240&timestamp=20221208023539&ContentId=265667721&timezone=UTC&mtv_session=fea2335a1aa3a51255cec05dcb60c3fc&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6de0ac7682a634ee9228c1b60782f4dd
-联通汕头经济,http://211.97.63.3:801/hls/82/index.m3u8
-CCTV1,http://hms244nc1972679581.live.aikan.miguvideo.com/wh7f454c46tw2974860734_-984725328/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.138.167.9&timestamp=20230206055630&ContentId=265183188&timezone=UTC&mtv_session=a91f3ba6bcad5189460d38d7cc42e3e3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6a4ca38e32fa2acffb209beea96b1b24
-CCTV5,http://175.10.37.200:9901/tsfile/live/0005_1.m3u8
-CCTV6,http://175.10.37.200:9901/tsfile/live/0006_1.m3u8
